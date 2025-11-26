@@ -1,0 +1,11 @@
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\25.FormControle\bin\Debug\25.FormControle.exe.config
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\25.FormControle\bin\Debug\25.FormControle.exe
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\25.FormControle\bin\Debug\25.FormControle.pdb
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\25.FormControle\obj\Debug\25.FormControle.csproj.AssemblyReference.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\25.FormControle\obj\Debug\_25.FormControle.Form1.resources
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\25.FormControle\obj\Debug\_25.FormControle.Properties.Resources.resources
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\25.FormControle\obj\Debug\25.FormControle.csproj.GenerateResource.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\25.FormControle\obj\Debug\25.FormControle.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\25.FormControle\obj\Debug\25.FormControle.exe
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\25.FormControle\obj\Debug\25.FormControle.pdb
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\25.FormControle\obj\Debug\25.FormControle.exe.config

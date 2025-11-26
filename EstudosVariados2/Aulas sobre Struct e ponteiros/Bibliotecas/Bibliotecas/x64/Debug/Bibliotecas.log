@@ -1,0 +1,4 @@
+﻿  Entrada.cpp
+C:\Users\M4x\source\repos\Bibliotecas\Bibliotecas\Entrada.cpp(41,9): warning C4477: 'printf': a cadeia de formato '%d' requer um argumento do tipo 'int', mas um argumento variadic 2 tem o tipo 'int *'
+C:\Users\M4x\source\repos\Bibliotecas\Bibliotecas\Entrada.cpp(41,9): warning C4313: 'printf': '%d' na cadeia de formato está em conflito com o argumento 2 do tipo 'int *'
+  Bibliotecas.vcxproj -> C:\Users\M4x\source\repos\Bibliotecas\x64\Debug\Bibliotecas.exe

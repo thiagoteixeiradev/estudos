@@ -1,0 +1,30 @@
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\Forms\22.Task\bin\Debug\net8.0\22.TaskApp.exe
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\Forms\22.Task\bin\Debug\net8.0\22.TaskApp.deps.json
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\Forms\22.Task\bin\Debug\net8.0\22.TaskApp.runtimeconfig.json
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\Forms\22.Task\bin\Debug\net8.0\22.TaskApp.dll
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\Forms\22.Task\bin\Debug\net8.0\22.TaskApp.pdb
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\Forms\22.Task\obj\Debug\net8.0\22.TaskApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\Forms\22.Task\obj\Debug\net8.0\22.TaskApp.AssemblyInfoInputs.cache
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\Forms\22.Task\obj\Debug\net8.0\22.TaskApp.AssemblyInfo.cs
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\Forms\22.Task\obj\Debug\net8.0\22.TaskApp.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\Forms\22.Task\obj\Debug\net8.0\22.TaskApp.sourcelink.json
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\Forms\22.Task\obj\Debug\net8.0\22.TaskApp.dll
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\Forms\22.Task\obj\Debug\net8.0\refint\22.TaskApp.dll
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\Forms\22.Task\obj\Debug\net8.0\22.TaskApp.pdb
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\Forms\22.Task\obj\Debug\net8.0\22.TaskApp.genruntimeconfig.cache
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\Forms\22.Task\obj\Debug\net8.0\ref\22.TaskApp.dll
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\22.Task\bin\Debug\net8.0\22.TaskApp.exe
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\22.Task\bin\Debug\net8.0\22.TaskApp.deps.json
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\22.Task\bin\Debug\net8.0\22.TaskApp.runtimeconfig.json
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\22.Task\bin\Debug\net8.0\22.TaskApp.dll
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\22.Task\bin\Debug\net8.0\22.TaskApp.pdb
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\22.Task\obj\Debug\net8.0\22.TaskApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\22.Task\obj\Debug\net8.0\22.TaskApp.AssemblyInfoInputs.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\22.Task\obj\Debug\net8.0\22.TaskApp.AssemblyInfo.cs
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\22.Task\obj\Debug\net8.0\22.TaskApp.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\22.Task\obj\Debug\net8.0\22.TaskApp.sourcelink.json
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\22.Task\obj\Debug\net8.0\22.TaskApp.dll
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\22.Task\obj\Debug\net8.0\refint\22.TaskApp.dll
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\22.Task\obj\Debug\net8.0\22.TaskApp.pdb
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\22.Task\obj\Debug\net8.0\22.TaskApp.genruntimeconfig.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\22.Task\obj\Debug\net8.0\ref\22.TaskApp.dll

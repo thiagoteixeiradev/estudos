@@ -1,0 +1,17 @@
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\46.AsyncExemplo\bin\Debug\net8.0-windows\46.AsyncExemplo.exe
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\46.AsyncExemplo\bin\Debug\net8.0-windows\46.AsyncExemplo.deps.json
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\46.AsyncExemplo\bin\Debug\net8.0-windows\46.AsyncExemplo.runtimeconfig.json
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\46.AsyncExemplo\bin\Debug\net8.0-windows\46.AsyncExemplo.dll
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\46.AsyncExemplo\bin\Debug\net8.0-windows\46.AsyncExemplo.pdb
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\46.AsyncExemplo\obj\Debug\net8.0-windows\_46.AsyncExemplo.Form1.resources
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\46.AsyncExemplo\obj\Debug\net8.0-windows\46.AsyncExemplo.csproj.GenerateResource.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\46.AsyncExemplo\obj\Debug\net8.0-windows\46.AsyncExemplo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\46.AsyncExemplo\obj\Debug\net8.0-windows\46.AsyncExemplo.AssemblyInfoInputs.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\46.AsyncExemplo\obj\Debug\net8.0-windows\46.AsyncExemplo.AssemblyInfo.cs
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\46.AsyncExemplo\obj\Debug\net8.0-windows\46.AsyncExemplo.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\46.AsyncExemplo\obj\Debug\net8.0-windows\46.AsyncExemplo.sourcelink.json
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\46.AsyncExemplo\obj\Debug\net8.0-windows\46.AsyncExemplo.dll
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\46.AsyncExemplo\obj\Debug\net8.0-windows\refint\46.AsyncExemplo.dll
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\46.AsyncExemplo\obj\Debug\net8.0-windows\46.AsyncExemplo.pdb
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\46.AsyncExemplo\obj\Debug\net8.0-windows\46.AsyncExemplo.genruntimeconfig.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\46.AsyncExemplo\obj\Debug\net8.0-windows\ref\46.AsyncExemplo.dll

@@ -1,0 +1,8 @@
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\0.Atividades Estudos\4.Estacionamento\bin\Debug\Estacionamento.exe.config
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\0.Atividades Estudos\4.Estacionamento\bin\Debug\Estacionamento.exe
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\0.Atividades Estudos\4.Estacionamento\bin\Debug\Estacionamento.pdb
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\0.Atividades Estudos\4.Estacionamento\obj\Debug\3.Estacionamento.csproj.AssemblyReference.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\0.Atividades Estudos\4.Estacionamento\obj\Debug\Estacionamento.exe.config
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\0.Atividades Estudos\4.Estacionamento\obj\Debug\3.Estacionamento.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\0.Atividades Estudos\4.Estacionamento\obj\Debug\Estacionamento.exe
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\0.Atividades Estudos\4.Estacionamento\obj\Debug\Estacionamento.pdb

@@ -1,0 +1,7 @@
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\Entrada e Saida de dados\bin\Debug\Entrada e Saida de dados.exe.config
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\Entrada e Saida de dados\bin\Debug\Entrada e Saida de dados.exe
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\Entrada e Saida de dados\bin\Debug\Entrada e Saida de dados.pdb
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\Entrada e Saida de dados\obj\Debug\1.Entrada, Saida de dados e conversoes.csproj.AssemblyReference.cache
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\Entrada e Saida de dados\obj\Debug\1.Entrada, Saida de dados e conversoes.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\Entrada e Saida de dados\obj\Debug\Entrada e Saida de dados.exe
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\Entrada e Saida de dados\obj\Debug\Entrada e Saida de dados.pdb

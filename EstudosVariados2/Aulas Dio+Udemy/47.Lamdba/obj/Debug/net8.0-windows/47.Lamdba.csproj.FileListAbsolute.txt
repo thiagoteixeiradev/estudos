@@ -1,0 +1,17 @@
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\47.Lamdba\bin\Debug\net8.0-windows\47.Lamdba.exe
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\47.Lamdba\bin\Debug\net8.0-windows\47.Lamdba.deps.json
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\47.Lamdba\bin\Debug\net8.0-windows\47.Lamdba.runtimeconfig.json
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\47.Lamdba\bin\Debug\net8.0-windows\47.Lamdba.dll
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\47.Lamdba\bin\Debug\net8.0-windows\47.Lamdba.pdb
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\47.Lamdba\obj\Debug\net8.0-windows\_47.Lamdba.Form1.resources
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\47.Lamdba\obj\Debug\net8.0-windows\47.Lamdba.csproj.GenerateResource.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\47.Lamdba\obj\Debug\net8.0-windows\47.Lamdba.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\47.Lamdba\obj\Debug\net8.0-windows\47.Lamdba.AssemblyInfoInputs.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\47.Lamdba\obj\Debug\net8.0-windows\47.Lamdba.AssemblyInfo.cs
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\47.Lamdba\obj\Debug\net8.0-windows\47.Lamdba.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\47.Lamdba\obj\Debug\net8.0-windows\47.Lamdba.sourcelink.json
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\47.Lamdba\obj\Debug\net8.0-windows\47.Lamdba.dll
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\47.Lamdba\obj\Debug\net8.0-windows\refint\47.Lamdba.dll
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\47.Lamdba\obj\Debug\net8.0-windows\47.Lamdba.pdb
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\47.Lamdba\obj\Debug\net8.0-windows\47.Lamdba.genruntimeconfig.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\47.Lamdba\obj\Debug\net8.0-windows\ref\47.Lamdba.dll

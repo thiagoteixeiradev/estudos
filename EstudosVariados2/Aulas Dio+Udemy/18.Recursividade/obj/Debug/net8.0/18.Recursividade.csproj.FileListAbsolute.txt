@@ -1,0 +1,30 @@
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\18.Recursividade\bin\Debug\net8.0\18.Recursividade.exe
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\18.Recursividade\bin\Debug\net8.0\18.Recursividade.deps.json
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\18.Recursividade\bin\Debug\net8.0\18.Recursividade.runtimeconfig.json
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\18.Recursividade\bin\Debug\net8.0\18.Recursividade.dll
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\18.Recursividade\bin\Debug\net8.0\18.Recursividade.pdb
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\18.Recursividade\obj\Debug\net8.0\18.Recursividade.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\18.Recursividade\obj\Debug\net8.0\18.Recursividade.AssemblyInfoInputs.cache
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\18.Recursividade\obj\Debug\net8.0\18.Recursividade.AssemblyInfo.cs
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\18.Recursividade\obj\Debug\net8.0\18.Recursividade.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\18.Recursividade\obj\Debug\net8.0\18.Recursividade.sourcelink.json
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\18.Recursividade\obj\Debug\net8.0\18.Recursividade.dll
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\18.Recursividade\obj\Debug\net8.0\refint\18.Recursividade.dll
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\18.Recursividade\obj\Debug\net8.0\18.Recursividade.pdb
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\18.Recursividade\obj\Debug\net8.0\18.Recursividade.genruntimeconfig.cache
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\18.Recursividade\obj\Debug\net8.0\ref\18.Recursividade.dll
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\18.Recursividade\bin\Debug\net8.0\18.Recursividade.exe
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\18.Recursividade\bin\Debug\net8.0\18.Recursividade.deps.json
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\18.Recursividade\bin\Debug\net8.0\18.Recursividade.runtimeconfig.json
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\18.Recursividade\bin\Debug\net8.0\18.Recursividade.dll
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\18.Recursividade\bin\Debug\net8.0\18.Recursividade.pdb
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\18.Recursividade\obj\Debug\net8.0\18.Recursividade.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\18.Recursividade\obj\Debug\net8.0\18.Recursividade.AssemblyInfoInputs.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\18.Recursividade\obj\Debug\net8.0\18.Recursividade.AssemblyInfo.cs
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\18.Recursividade\obj\Debug\net8.0\18.Recursividade.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\18.Recursividade\obj\Debug\net8.0\18.Recursividade.sourcelink.json
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\18.Recursividade\obj\Debug\net8.0\18.Recursividade.dll
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\18.Recursividade\obj\Debug\net8.0\refint\18.Recursividade.dll
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\18.Recursividade\obj\Debug\net8.0\18.Recursividade.pdb
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\18.Recursividade\obj\Debug\net8.0\18.Recursividade.genruntimeconfig.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\18.Recursividade\obj\Debug\net8.0\ref\18.Recursividade.dll

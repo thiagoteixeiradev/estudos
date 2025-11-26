@@ -1,0 +1,41 @@
+Modificadores, tipos e palavras-chave do C#
+
+Esses termos fazem parte da estrutura do código
+
+Modificadores de acesso
+
+public				Visível em qualquer lugar.
+private				Visível apenas dentro da classe onde foi declarado.
+protected			Visível apenas na classe e em classes derivadas.
+internal			Visível apenas dentro do mesmo assembly/projeto.
+protected internal	Visível no assembly e em classes derivadas.
+private protected	Visível apenas na classe e em derivadas do mesmo assembly.
+
+Modificadores de tipo ou método
+
+
+static		Pertence ao tipo, não à instância. Não precisa criar objeto.
+abstract	Define um método/classe que não pode ser instanciado diretamente. É como um molde para subclasses.
+sealed		Impede que uma classe seja herdada.
+partial		Permite dividir a definição de uma classe em vários arquivos.
+readonly	Campo que só pode ser atribuído no construtor ou declaração.
+const		Valor constante, definido em tempo de compilação.
+virtual		Permite que um método seja sobrescrito em subclasses.
+override	Substitui um método virtual/abstract da classe base.
+async		Marca métodos para programação assíncrona (usado com await).
+
+Contratos
+
+Palavra	Uso
+interface	Define um contrato (métodos/propriedades) que classes devem implementar.
+enum		Conjunto de valores nomeados fixos.
+delegate	Tipo seguro para referências a métodos (base para eventos).
+event		Usado para definir eventos que podem ser assinados.
+
+Tipos de retorno
+
+void				Não retorna valor.
+string				Retorna texto.
+int, double, bool	Retornam números ou valores lógicos.
+Task, Task<T>		Retornam operações assíncronas.
+IEnumerable<T>		Retorna coleções iteráveis.

@@ -1,0 +1,15 @@
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\Conversão de Dados\bin\Debug\net8.0\Conversão de Dados.exe
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\Conversão de Dados\bin\Debug\net8.0\Conversão de Dados.deps.json
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\Conversão de Dados\bin\Debug\net8.0\Conversão de Dados.runtimeconfig.json
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\Conversão de Dados\bin\Debug\net8.0\Conversão de Dados.dll
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\Conversão de Dados\bin\Debug\net8.0\Conversão de Dados.pdb
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\Conversão de Dados\obj\Debug\net8.0\Conversão de Dados.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\Conversão de Dados\obj\Debug\net8.0\Conversão de Dados.AssemblyInfoInputs.cache
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\Conversão de Dados\obj\Debug\net8.0\Conversão de Dados.AssemblyInfo.cs
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\Conversão de Dados\obj\Debug\net8.0\Conversão de Dados.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\Conversão de Dados\obj\Debug\net8.0\Conversão de Dados.sourcelink.json
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\Conversão de Dados\obj\Debug\net8.0\Conversão de Dados.dll
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\Conversão de Dados\obj\Debug\net8.0\refint\Conversão de Dados.dll
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\Conversão de Dados\obj\Debug\net8.0\Conversão de Dados.pdb
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\Conversão de Dados\obj\Debug\net8.0\Conversão de Dados.genruntimeconfig.cache
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\Conversão de Dados\obj\Debug\net8.0\ref\Conversão de Dados.dll

@@ -1,0 +1,8 @@
+﻿O Builder construir objetos complexos passo a passo, de forma mais legível, flexível e desacoplada.
+
+Ele é útil quando seu projeto tem muitos parâmetros opcionais, deve ser construindo em etapas e evita construtores 
+com muitos parâmetros.
+
+Como funciona?
+O Builder Pattern funciona separando o processo de construção de um objeto da sua representação final, criando um guia de
+montagem.

@@ -1,0 +1,6 @@
+﻿Facade: Fornece uma interface unificada para um conjunto de interfaces em um subsistema, definindo uma interface
+de nível mais alto, que torna o subsistema mais fácil de ser usado.
+
+Te retorna uma interface limite, simples para um sistema complexo.
+
+(possívelmente pode ferir o princípio de responsabilidade única.)

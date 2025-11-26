@@ -1,0 +1,13 @@
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\26.FormContainer\bin\Debug\26.FormContainer.exe.config
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\26.FormContainer\bin\Debug\26.FormContainer.exe
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\26.FormContainer\bin\Debug\26.FormContainer.pdb
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\26.FormContainer\obj\Debug\26.FormMdiContainer.csproj.AssemblyReference.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\26.FormContainer\obj\Debug\26.FormContainer.exe.config
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\26.FormContainer\obj\Debug\_26.FormContainer.Container.resources
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\26.FormContainer\obj\Debug\_26.FormContainer.Properties.Resources.resources
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\26.FormContainer\obj\Debug\_26.FormContainer.Sec.resources
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\26.FormContainer\obj\Debug\_26.FormContainer.Terc.resources
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\26.FormContainer\obj\Debug\26.FormMdiContainer.csproj.GenerateResource.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\26.FormContainer\obj\Debug\26.FormMdiContainer.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\26.FormContainer\obj\Debug\26.FormContainer.exe
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\26.FormContainer\obj\Debug\26.FormContainer.pdb

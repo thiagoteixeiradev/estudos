@@ -1,0 +1,30 @@
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\5. Estruturas de Decisao\bin\Debug\net8.0\5. Estruturas de Decisao.exe
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\5. Estruturas de Decisao\bin\Debug\net8.0\5. Estruturas de Decisao.deps.json
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\5. Estruturas de Decisao\bin\Debug\net8.0\5. Estruturas de Decisao.runtimeconfig.json
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\5. Estruturas de Decisao\bin\Debug\net8.0\5. Estruturas de Decisao.dll
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\5. Estruturas de Decisao\bin\Debug\net8.0\5. Estruturas de Decisao.pdb
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\5. Estruturas de Decisao\obj\Debug\net8.0\5. Estruturas de Decisao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\5. Estruturas de Decisao\obj\Debug\net8.0\5. Estruturas de Decisao.AssemblyInfoInputs.cache
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\5. Estruturas de Decisao\obj\Debug\net8.0\5. Estruturas de Decisao.AssemblyInfo.cs
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\5. Estruturas de Decisao\obj\Debug\net8.0\5. Estruturas de Decisao.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\5. Estruturas de Decisao\obj\Debug\net8.0\5. Estruturas de Decisao.sourcelink.json
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\5. Estruturas de Decisao\obj\Debug\net8.0\5. Estruturas de Decisao.dll
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\5. Estruturas de Decisao\obj\Debug\net8.0\refint\5. Estruturas de Decisao.dll
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\5. Estruturas de Decisao\obj\Debug\net8.0\5. Estruturas de Decisao.pdb
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\5. Estruturas de Decisao\obj\Debug\net8.0\5. Estruturas de Decisao.genruntimeconfig.cache
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\5. Estruturas de Decisao\obj\Debug\net8.0\ref\5. Estruturas de Decisao.dll
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\5. Estruturas de Decisao\bin\Debug\net8.0\5. Estruturas de Decisao.exe
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\5. Estruturas de Decisao\bin\Debug\net8.0\5. Estruturas de Decisao.deps.json
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\5. Estruturas de Decisao\bin\Debug\net8.0\5. Estruturas de Decisao.runtimeconfig.json
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\5. Estruturas de Decisao\bin\Debug\net8.0\5. Estruturas de Decisao.dll
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\5. Estruturas de Decisao\bin\Debug\net8.0\5. Estruturas de Decisao.pdb
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\5. Estruturas de Decisao\obj\Debug\net8.0\5. Estruturas de Decisao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\5. Estruturas de Decisao\obj\Debug\net8.0\5. Estruturas de Decisao.AssemblyInfoInputs.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\5. Estruturas de Decisao\obj\Debug\net8.0\5. Estruturas de Decisao.AssemblyInfo.cs
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\5. Estruturas de Decisao\obj\Debug\net8.0\5. Estruturas de Decisao.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\5. Estruturas de Decisao\obj\Debug\net8.0\5. Estruturas de Decisao.sourcelink.json
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\5. Estruturas de Decisao\obj\Debug\net8.0\5. Estruturas de Decisao.dll
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\5. Estruturas de Decisao\obj\Debug\net8.0\refint\5. Estruturas de Decisao.dll
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\5. Estruturas de Decisao\obj\Debug\net8.0\5. Estruturas de Decisao.pdb
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\5. Estruturas de Decisao\obj\Debug\net8.0\5. Estruturas de Decisao.genruntimeconfig.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\5. Estruturas de Decisao\obj\Debug\net8.0\ref\5. Estruturas de Decisao.dll

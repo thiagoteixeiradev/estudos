@@ -1,0 +1,4 @@
+﻿Flyweight atua principalmente na memória Ram, usando compartilhamento para suportar eficientemente grandes quantidades
+de objetos de granulidade fine.
+
+Ele usa do reaproveitamento dos objetos, compartilhando dados que são comuns.

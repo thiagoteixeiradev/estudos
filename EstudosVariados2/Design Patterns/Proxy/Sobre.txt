@@ -1,0 +1,11 @@
+﻿Proxy fornecer um substituto ou representante de outro objeto para controlar o acesso a ele.
+Ele é usado quando o acesso ao objeto real é caro ou complexo,
+permitindo que o proxy gerencie esse acesso de maneira eficiente.
+
+proxy possui divesas aplicações, como:
+
+Virtual Proxy: Adia a criação de um objeto caro até que ele seja realmente necessário.
+Remote Proxy: Representa um objeto que está em um endereço remoto, gerenciando a comunicação com ele.
+Protection Proxy: Controla o acesso a um objeto, permitindo ou negando operações com base em permissões.
+Cache Proxy: Armazena em cache os resultados de operações caras para melhorar o desempenho.
+Smart Proxy: Adiciona funcionalidades extras ao objeto real, como contagem de referências ou carregamento sob demanda.

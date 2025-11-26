@@ -1,0 +1,17 @@
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\42.Servidor de Chat\bin\Debug\net8.0-windows\42.Servidor de Chat.exe
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\42.Servidor de Chat\bin\Debug\net8.0-windows\42.Servidor de Chat.deps.json
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\42.Servidor de Chat\bin\Debug\net8.0-windows\42.Servidor de Chat.runtimeconfig.json
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\42.Servidor de Chat\bin\Debug\net8.0-windows\42.Servidor de Chat.dll
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\42.Servidor de Chat\bin\Debug\net8.0-windows\42.Servidor de Chat.pdb
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\42.Servidor de Chat\obj\Debug\net8.0-windows\_42.Servidor_de_Chat.Main.resources
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\42.Servidor de Chat\obj\Debug\net8.0-windows\42.Servidor de Chat.csproj.GenerateResource.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\42.Servidor de Chat\obj\Debug\net8.0-windows\42.Servidor de Chat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\42.Servidor de Chat\obj\Debug\net8.0-windows\42.Servidor de Chat.AssemblyInfoInputs.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\42.Servidor de Chat\obj\Debug\net8.0-windows\42.Servidor de Chat.AssemblyInfo.cs
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\42.Servidor de Chat\obj\Debug\net8.0-windows\42.Servidor de Chat.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\42.Servidor de Chat\obj\Debug\net8.0-windows\42.Servidor de Chat.sourcelink.json
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\42.Servidor de Chat\obj\Debug\net8.0-windows\42.Servidor de Chat.dll
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\42.Servidor de Chat\obj\Debug\net8.0-windows\refint\42.Servidor de Chat.dll
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\42.Servidor de Chat\obj\Debug\net8.0-windows\42.Servidor de Chat.pdb
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\42.Servidor de Chat\obj\Debug\net8.0-windows\42.Servidor de Chat.genruntimeconfig.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\42.Servidor de Chat\obj\Debug\net8.0-windows\ref\42.Servidor de Chat.dll

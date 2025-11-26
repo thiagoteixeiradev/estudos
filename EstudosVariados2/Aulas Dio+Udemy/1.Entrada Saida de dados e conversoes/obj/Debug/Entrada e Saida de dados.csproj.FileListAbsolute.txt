@@ -1,0 +1,7 @@
+C:\Users\M4x\source\repos\Entrada e Saida de dados\Entrada e Saida de dados\bin\Debug\Entrada e Saida de dados.exe.config
+C:\Users\M4x\source\repos\Entrada e Saida de dados\Entrada e Saida de dados\bin\Debug\Entrada e Saida de dados.exe
+C:\Users\M4x\source\repos\Entrada e Saida de dados\Entrada e Saida de dados\bin\Debug\Entrada e Saida de dados.pdb
+C:\Users\M4x\source\repos\Entrada e Saida de dados\Entrada e Saida de dados\obj\Debug\Entrada e Saida de dados.csproj.AssemblyReference.cache
+C:\Users\M4x\source\repos\Entrada e Saida de dados\Entrada e Saida de dados\obj\Debug\Entrada e Saida de dados.csproj.CoreCompileInputs.cache
+C:\Users\M4x\source\repos\Entrada e Saida de dados\Entrada e Saida de dados\obj\Debug\Entrada e Saida de dados.exe
+C:\Users\M4x\source\repos\Entrada e Saida de dados\Entrada e Saida de dados\obj\Debug\Entrada e Saida de dados.pdb

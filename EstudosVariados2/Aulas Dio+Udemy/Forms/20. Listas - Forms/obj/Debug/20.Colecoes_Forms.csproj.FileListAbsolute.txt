@@ -1,0 +1,4 @@
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\Forms\20. Listas - Forms\obj\Debug\20.Colecoes_Forms.csproj.AssemblyReference.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\Forms\20. Listas - Forms\obj\Debug\Colecoes_Forms.exe.config
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\Forms\20. Listas - Forms\obj\Debug\Colecoes_Forms.exe
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\Forms\20. Listas - Forms\obj\Debug\Colecoes_Forms.pdb

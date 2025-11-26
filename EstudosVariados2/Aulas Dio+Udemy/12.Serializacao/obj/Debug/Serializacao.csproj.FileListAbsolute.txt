@@ -1,0 +1,33 @@
+D:\Arquivos\GitHub\Estudos.net\14. Serialização\Serializacao\Serializacao\bin\Debug\Serializacao.exe.config
+D:\Arquivos\GitHub\Estudos.net\14. Serialização\Serializacao\Serializacao\bin\Debug\Serializacao.exe
+D:\Arquivos\GitHub\Estudos.net\14. Serialização\Serializacao\Serializacao\bin\Debug\Serializacao.pdb
+D:\Arquivos\GitHub\Estudos.net\14. Serialização\Serializacao\Serializacao\bin\Debug\Newtonsoft.Json.dll
+D:\Arquivos\GitHub\Estudos.net\14. Serialização\Serializacao\Serializacao\bin\Debug\Newtonsoft.Json.xml
+D:\Arquivos\GitHub\Estudos.net\14. Serialização\Serializacao\Serializacao\obj\Debug\Serializacao.csproj.AssemblyReference.cache
+D:\Arquivos\GitHub\Estudos.net\14. Serialização\Serializacao\Serializacao\obj\Debug\Serializacao.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\Estudos.net\14. Serialização\Serializacao\Serializacao\obj\Debug\Serializ.2F538345.Up2Date
+D:\Arquivos\GitHub\Estudos.net\14. Serialização\Serializacao\Serializacao\obj\Debug\Serializacao.exe
+D:\Arquivos\GitHub\Estudos.net\14. Serialização\Serializacao\Serializacao\obj\Debug\Serializacao.pdb
+D:\Arquivos\GitHub\Estudos.net\14. Serialização\Serializacao\Serializacao\obj\Debug\Serializacao.exe.config
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\12.Serializacao\bin\Debug\Serializacao.exe.config
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\12.Serializacao\bin\Debug\Serializacao.exe
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\12.Serializacao\bin\Debug\Serializacao.pdb
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\12.Serializacao\bin\Debug\Newtonsoft.Json.dll
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\12.Serializacao\bin\Debug\Newtonsoft.Json.xml
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\12.Serializacao\obj\Debug\Serializacao.csproj.AssemblyReference.cache
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\12.Serializacao\obj\Debug\Serializacao.exe.config
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\12.Serializacao\obj\Debug\Serializacao.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\12.Serializacao\obj\Debug\Serializ.2F538345.Up2Date
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\12.Serializacao\obj\Debug\Serializacao.exe
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\12.Serializacao\obj\Debug\Serializacao.pdb
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\12.Serializacao\bin\Debug\Serializacao.exe.config
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\12.Serializacao\bin\Debug\Serializacao.exe
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\12.Serializacao\bin\Debug\Serializacao.pdb
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\12.Serializacao\bin\Debug\Newtonsoft.Json.dll
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\12.Serializacao\bin\Debug\Newtonsoft.Json.xml
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\12.Serializacao\obj\Debug\Serializacao.csproj.AssemblyReference.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\12.Serializacao\obj\Debug\Serializacao.exe.config
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\12.Serializacao\obj\Debug\Serializacao.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\12.Serializacao\obj\Debug\Serializ.2F538345.Up2Date
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\12.Serializacao\obj\Debug\Serializacao.exe
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\12.Serializacao\obj\Debug\Serializacao.pdb

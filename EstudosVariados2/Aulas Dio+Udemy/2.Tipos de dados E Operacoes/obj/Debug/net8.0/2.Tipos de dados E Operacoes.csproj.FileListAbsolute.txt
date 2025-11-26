@@ -1,0 +1,30 @@
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\2.Tipos de dados E Operacoes\bin\Debug\net8.0\2.Tipos de dados E Operacoes.exe
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\2.Tipos de dados E Operacoes\bin\Debug\net8.0\2.Tipos de dados E Operacoes.deps.json
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\2.Tipos de dados E Operacoes\bin\Debug\net8.0\2.Tipos de dados E Operacoes.runtimeconfig.json
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\2.Tipos de dados E Operacoes\bin\Debug\net8.0\2.Tipos de dados E Operacoes.dll
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\2.Tipos de dados E Operacoes\bin\Debug\net8.0\2.Tipos de dados E Operacoes.pdb
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\2.Tipos de dados E Operacoes\obj\Debug\net8.0\2.Tipos de dados E Operacoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\2.Tipos de dados E Operacoes\obj\Debug\net8.0\2.Tipos de dados E Operacoes.AssemblyInfoInputs.cache
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\2.Tipos de dados E Operacoes\obj\Debug\net8.0\2.Tipos de dados E Operacoes.AssemblyInfo.cs
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\2.Tipos de dados E Operacoes\obj\Debug\net8.0\2.Tipos de dados E Operacoes.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\2.Tipos de dados E Operacoes\obj\Debug\net8.0\2.Tipos de dados E Operacoes.sourcelink.json
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\2.Tipos de dados E Operacoes\obj\Debug\net8.0\2.Tipos de dados E Operacoes.dll
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\2.Tipos de dados E Operacoes\obj\Debug\net8.0\refint\2.Tipos de dados E Operacoes.dll
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\2.Tipos de dados E Operacoes\obj\Debug\net8.0\2.Tipos de dados E Operacoes.pdb
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\2.Tipos de dados E Operacoes\obj\Debug\net8.0\2.Tipos de dados E Operacoes.genruntimeconfig.cache
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\2.Tipos de dados E Operacoes\obj\Debug\net8.0\ref\2.Tipos de dados E Operacoes.dll
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\2.Tipos de dados E Operacoes\bin\Debug\net8.0\2.Tipos de dados E Operacoes.exe
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\2.Tipos de dados E Operacoes\bin\Debug\net8.0\2.Tipos de dados E Operacoes.deps.json
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\2.Tipos de dados E Operacoes\bin\Debug\net8.0\2.Tipos de dados E Operacoes.runtimeconfig.json
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\2.Tipos de dados E Operacoes\bin\Debug\net8.0\2.Tipos de dados E Operacoes.dll
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\2.Tipos de dados E Operacoes\bin\Debug\net8.0\2.Tipos de dados E Operacoes.pdb
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\2.Tipos de dados E Operacoes\obj\Debug\net8.0\2.Tipos de dados E Operacoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\2.Tipos de dados E Operacoes\obj\Debug\net8.0\2.Tipos de dados E Operacoes.AssemblyInfoInputs.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\2.Tipos de dados E Operacoes\obj\Debug\net8.0\2.Tipos de dados E Operacoes.AssemblyInfo.cs
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\2.Tipos de dados E Operacoes\obj\Debug\net8.0\2.Tipos de dados E Operacoes.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\2.Tipos de dados E Operacoes\obj\Debug\net8.0\2.Tipos de dados E Operacoes.sourcelink.json
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\2.Tipos de dados E Operacoes\obj\Debug\net8.0\2.Tipos de dados E Operacoes.dll
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\2.Tipos de dados E Operacoes\obj\Debug\net8.0\refint\2.Tipos de dados E Operacoes.dll
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\2.Tipos de dados E Operacoes\obj\Debug\net8.0\2.Tipos de dados E Operacoes.pdb
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\2.Tipos de dados E Operacoes\obj\Debug\net8.0\2.Tipos de dados E Operacoes.genruntimeconfig.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\2.Tipos de dados E Operacoes\obj\Debug\net8.0\ref\2.Tipos de dados E Operacoes.dll

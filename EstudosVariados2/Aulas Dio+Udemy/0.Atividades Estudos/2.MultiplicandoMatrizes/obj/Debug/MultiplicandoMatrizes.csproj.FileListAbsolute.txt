@@ -1,0 +1,7 @@
+D:\Arquivos\GitHub\Estudos.net\Atividades Estudos\MultiplicandoMatrizes\MultiplicandoMatrizes\MultiplicandoMatrizes\bin\Debug\MultiplicandoMatrizes.exe.config
+D:\Arquivos\GitHub\Estudos.net\Atividades Estudos\MultiplicandoMatrizes\MultiplicandoMatrizes\MultiplicandoMatrizes\bin\Debug\MultiplicandoMatrizes.exe
+D:\Arquivos\GitHub\Estudos.net\Atividades Estudos\MultiplicandoMatrizes\MultiplicandoMatrizes\MultiplicandoMatrizes\bin\Debug\MultiplicandoMatrizes.pdb
+D:\Arquivos\GitHub\Estudos.net\Atividades Estudos\MultiplicandoMatrizes\MultiplicandoMatrizes\MultiplicandoMatrizes\obj\Debug\MultiplicandoMatrizes.csproj.AssemblyReference.cache
+D:\Arquivos\GitHub\Estudos.net\Atividades Estudos\MultiplicandoMatrizes\MultiplicandoMatrizes\MultiplicandoMatrizes\obj\Debug\MultiplicandoMatrizes.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\Estudos.net\Atividades Estudos\MultiplicandoMatrizes\MultiplicandoMatrizes\MultiplicandoMatrizes\obj\Debug\MultiplicandoMatrizes.exe
+D:\Arquivos\GitHub\Estudos.net\Atividades Estudos\MultiplicandoMatrizes\MultiplicandoMatrizes\MultiplicandoMatrizes\obj\Debug\MultiplicandoMatrizes.pdb

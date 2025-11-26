@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\M4x\\source\\repos\\Ponteiros\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7FA7703-A68C-49A6-BA08-B619274EBA18}|Ponteiros\\Ponteiros.vcxproj|C:\\Users\\M4x\\source\\repos\\Ponteiros\\Ponteiros\\ExemplosPonteiros.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D7FA7703-A68C-49A6-BA08-B619274EBA18}|Ponteiros\\Ponteiros.vcxproj|solutionrelative:Ponteiros\\ExemplosPonteiros.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExemplosPonteiros.cpp",
+              "DocumentMoniker": "C:\\Users\\M4x\\source\\repos\\Ponteiros\\Ponteiros\\ExemplosPonteiros.cpp",
+              "RelativeDocumentMoniker": "Ponteiros\\ExemplosPonteiros.cpp",
+              "ToolTip": "C:\\Users\\M4x\\source\\repos\\Ponteiros\\Ponteiros\\ExemplosPonteiros.cpp*",
+              "RelativeToolTip": "Ponteiros\\ExemplosPonteiros.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-10T04:32:54.556Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

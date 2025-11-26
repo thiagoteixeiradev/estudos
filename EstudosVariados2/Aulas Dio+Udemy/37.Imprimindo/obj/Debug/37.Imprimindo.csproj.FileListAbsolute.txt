@@ -1,0 +1,11 @@
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\37.Imprimindo\bin\Debug\37.Imprimindo.exe.config
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\37.Imprimindo\bin\Debug\37.Imprimindo.exe
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\37.Imprimindo\bin\Debug\37.Imprimindo.pdb
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\37.Imprimindo\obj\Debug\37.Imprimindo.csproj.AssemblyReference.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\37.Imprimindo\obj\Debug\_37.Imprimindo.Form1.resources
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\37.Imprimindo\obj\Debug\_37.Imprimindo.Properties.Resources.resources
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\37.Imprimindo\obj\Debug\37.Imprimindo.csproj.GenerateResource.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\37.Imprimindo\obj\Debug\37.Imprimindo.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\37.Imprimindo\obj\Debug\37.Imprimindo.exe
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\37.Imprimindo\obj\Debug\37.Imprimindo.pdb
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\37.Imprimindo\obj\Debug\37.Imprimindo.exe.config

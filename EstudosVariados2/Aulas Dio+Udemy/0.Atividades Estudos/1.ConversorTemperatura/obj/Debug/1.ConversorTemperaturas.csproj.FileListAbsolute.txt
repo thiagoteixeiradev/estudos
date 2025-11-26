@@ -1,0 +1,8 @@
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\0.Atividades Estudos\1.ConversorTemperatura\bin\Debug\ConversorTemperaturas.exe.config
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\0.Atividades Estudos\1.ConversorTemperatura\bin\Debug\ConversorTemperaturas.exe
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\0.Atividades Estudos\1.ConversorTemperatura\bin\Debug\ConversorTemperaturas.pdb
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\0.Atividades Estudos\1.ConversorTemperatura\obj\Debug\1.ConversorTemperaturas.csproj.AssemblyReference.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\0.Atividades Estudos\1.ConversorTemperatura\obj\Debug\ConversorTemperaturas.exe.config
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\0.Atividades Estudos\1.ConversorTemperatura\obj\Debug\1.ConversorTemperaturas.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\0.Atividades Estudos\1.ConversorTemperatura\obj\Debug\ConversorTemperaturas.exe
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\0.Atividades Estudos\1.ConversorTemperatura\obj\Debug\ConversorTemperaturas.pdb

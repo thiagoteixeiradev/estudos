@@ -1,0 +1,30 @@
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\23.Thread\bin\Debug\net8.0\23.Thread.exe
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\23.Thread\bin\Debug\net8.0\23.Thread.deps.json
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\23.Thread\bin\Debug\net8.0\23.Thread.runtimeconfig.json
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\23.Thread\bin\Debug\net8.0\23.Thread.dll
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\23.Thread\bin\Debug\net8.0\23.Thread.pdb
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\23.Thread\obj\Debug\net8.0\23.Thread.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\23.Thread\obj\Debug\net8.0\23.Thread.AssemblyInfoInputs.cache
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\23.Thread\obj\Debug\net8.0\23.Thread.AssemblyInfo.cs
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\23.Thread\obj\Debug\net8.0\23.Thread.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\23.Thread\obj\Debug\net8.0\23.Thread.sourcelink.json
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\23.Thread\obj\Debug\net8.0\23.Thread.dll
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\23.Thread\obj\Debug\net8.0\refint\23.Thread.dll
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\23.Thread\obj\Debug\net8.0\23.Thread.pdb
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\23.Thread\obj\Debug\net8.0\23.Thread.genruntimeconfig.cache
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\23.Thread\obj\Debug\net8.0\ref\23.Thread.dll
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\23.Thread\bin\Debug\net8.0\23.Thread.exe
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\23.Thread\bin\Debug\net8.0\23.Thread.deps.json
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\23.Thread\bin\Debug\net8.0\23.Thread.runtimeconfig.json
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\23.Thread\bin\Debug\net8.0\23.Thread.dll
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\23.Thread\bin\Debug\net8.0\23.Thread.pdb
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\23.Thread\obj\Debug\net8.0\23.Thread.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\23.Thread\obj\Debug\net8.0\23.Thread.AssemblyInfoInputs.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\23.Thread\obj\Debug\net8.0\23.Thread.AssemblyInfo.cs
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\23.Thread\obj\Debug\net8.0\23.Thread.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\23.Thread\obj\Debug\net8.0\23.Thread.sourcelink.json
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\23.Thread\obj\Debug\net8.0\23.Thread.dll
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\23.Thread\obj\Debug\net8.0\refint\23.Thread.dll
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\23.Thread\obj\Debug\net8.0\23.Thread.pdb
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\23.Thread\obj\Debug\net8.0\23.Thread.genruntimeconfig.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\23.Thread\obj\Debug\net8.0\ref\23.Thread.dll

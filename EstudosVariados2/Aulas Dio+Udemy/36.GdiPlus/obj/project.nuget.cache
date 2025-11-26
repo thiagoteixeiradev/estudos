@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jfsx7AzSJ/8=",
+  "success": true,
+  "projectFilePath": "D:\\Arquivos\\GitHub\\Estudos.net\\Aulas Dio+Udemy\\36.GdiPlus\\36.GdiPlus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\M4x\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\M4x\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

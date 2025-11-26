@@ -1,0 +1,15 @@
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\Vetores Foreach e listas\bin\Debug\net8.0\Vetores Foreach e listas.exe
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\Vetores Foreach e listas\bin\Debug\net8.0\Vetores Foreach e listas.deps.json
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\Vetores Foreach e listas\bin\Debug\net8.0\Vetores Foreach e listas.runtimeconfig.json
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\Vetores Foreach e listas\bin\Debug\net8.0\Vetores Foreach e listas.dll
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\Vetores Foreach e listas\bin\Debug\net8.0\Vetores Foreach e listas.pdb
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\Vetores Foreach e listas\obj\Debug\net8.0\Vetores Foreach e listas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\Vetores Foreach e listas\obj\Debug\net8.0\Vetores Foreach e listas.AssemblyInfoInputs.cache
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\Vetores Foreach e listas\obj\Debug\net8.0\Vetores Foreach e listas.AssemblyInfo.cs
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\Vetores Foreach e listas\obj\Debug\net8.0\Vetores Foreach e listas.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\Vetores Foreach e listas\obj\Debug\net8.0\Vetores Foreach e listas.sourcelink.json
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\Vetores Foreach e listas\obj\Debug\net8.0\Vetores Foreach e listas.dll
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\Vetores Foreach e listas\obj\Debug\net8.0\refint\Vetores Foreach e listas.dll
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\Vetores Foreach e listas\obj\Debug\net8.0\Vetores Foreach e listas.pdb
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\Vetores Foreach e listas\obj\Debug\net8.0\Vetores Foreach e listas.genruntimeconfig.cache
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\Vetores Foreach e listas\obj\Debug\net8.0\ref\Vetores Foreach e listas.dll

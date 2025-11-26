@@ -1,0 +1,8 @@
+D:\Arquivos\GitHub\Estudos.net\12.Tuplas\Tuplas\Tuplas\bin\Debug\Tuplas.exe.config
+D:\Arquivos\GitHub\Estudos.net\12.Tuplas\Tuplas\Tuplas\bin\Debug\Tuplas.exe
+D:\Arquivos\GitHub\Estudos.net\12.Tuplas\Tuplas\Tuplas\bin\Debug\Tuplas.pdb
+D:\Arquivos\GitHub\Estudos.net\12.Tuplas\Tuplas\Tuplas\obj\Debug\Tuplas.csproj.AssemblyReference.cache
+D:\Arquivos\GitHub\Estudos.net\12.Tuplas\Tuplas\Tuplas\obj\Debug\Tuplas.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\Estudos.net\12.Tuplas\Tuplas\Tuplas\obj\Debug\Tuplas.exe
+D:\Arquivos\GitHub\Estudos.net\12.Tuplas\Tuplas\Tuplas\obj\Debug\Tuplas.pdb
+D:\Arquivos\GitHub\Estudos.net\12.Tuplas\Tuplas\Tuplas\obj\Debug\Tuplas.exe.config

@@ -1,0 +1,16 @@
+D:\Arquivos\GitHub\Estudos.net\15.Herança\ExemploPOO\ExemploPOO\obj\Debug\net6.0\ExemploPOO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\GitHub\Estudos.net\15.Herança\ExemploPOO\ExemploPOO\obj\Debug\net6.0\ExemploPOO.AssemblyInfoInputs.cache
+D:\Arquivos\GitHub\Estudos.net\15.Herança\ExemploPOO\ExemploPOO\obj\Debug\net6.0\ExemploPOO.AssemblyInfo.cs
+D:\Arquivos\GitHub\Estudos.net\15.Herança\ExemploPOO\ExemploPOO\obj\Debug\net6.0\ExemploPOO.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\Estudos.net\15.Herança\ExemploPOO\ExemploPOO\obj\Debug\net6.0\ExemploPOO.sourcelink.json
+D:\Arquivos\GitHub\Estudos.net\15.Herança\ExemploPOO\ExemploPOO\bin\Debug\net6.0\ExemploPOO.exe
+D:\Arquivos\GitHub\Estudos.net\15.Herança\ExemploPOO\ExemploPOO\bin\Debug\net6.0\ExemploPOO.dll.config
+D:\Arquivos\GitHub\Estudos.net\15.Herança\ExemploPOO\ExemploPOO\bin\Debug\net6.0\ExemploPOO.deps.json
+D:\Arquivos\GitHub\Estudos.net\15.Herança\ExemploPOO\ExemploPOO\bin\Debug\net6.0\ExemploPOO.runtimeconfig.json
+D:\Arquivos\GitHub\Estudos.net\15.Herança\ExemploPOO\ExemploPOO\bin\Debug\net6.0\ExemploPOO.dll
+D:\Arquivos\GitHub\Estudos.net\15.Herança\ExemploPOO\ExemploPOO\bin\Debug\net6.0\ExemploPOO.pdb
+D:\Arquivos\GitHub\Estudos.net\15.Herança\ExemploPOO\ExemploPOO\obj\Debug\net6.0\ExemploPOO.dll
+D:\Arquivos\GitHub\Estudos.net\15.Herança\ExemploPOO\ExemploPOO\obj\Debug\net6.0\refint\ExemploPOO.dll
+D:\Arquivos\GitHub\Estudos.net\15.Herança\ExemploPOO\ExemploPOO\obj\Debug\net6.0\ExemploPOO.pdb
+D:\Arquivos\GitHub\Estudos.net\15.Herança\ExemploPOO\ExemploPOO\obj\Debug\net6.0\ExemploPOO.genruntimeconfig.cache
+D:\Arquivos\GitHub\Estudos.net\15.Herança\ExemploPOO\ExemploPOO\obj\Debug\net6.0\ref\ExemploPOO.dll

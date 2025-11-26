@@ -1,0 +1,8 @@
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\8.Classes Parciais\bin\Debug\Modulos.exe.config
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\8.Classes Parciais\bin\Debug\Modulos.exe
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\8.Classes Parciais\bin\Debug\Modulos.pdb
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\8.Classes Parciais\obj\Debug\7.Classe Parcial Formatacao e Cultura.csproj.AssemblyReference.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\8.Classes Parciais\obj\Debug\Modulos.exe.config
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\8.Classes Parciais\obj\Debug\7.Classe Parcial Formatacao e Cultura.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\8.Classes Parciais\obj\Debug\Modulos.exe
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\8.Classes Parciais\obj\Debug\Modulos.pdb

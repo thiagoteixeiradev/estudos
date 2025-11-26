@@ -1,0 +1,2 @@
+﻿Sem violar o encapsulamento, capture e externalize um objeto interno, de maneira que esse objeto 
+possa ser restaurado para esse estado mais tarde.

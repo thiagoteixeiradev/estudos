@@ -1,0 +1,2 @@
+Nome: Romario
+Idade: 30

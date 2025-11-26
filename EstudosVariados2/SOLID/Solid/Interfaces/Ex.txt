@@ -1,0 +1,27 @@
+﻿Modulos de alto nivel nao devem depender de modulos de baixo nivel, ambos devem depender de abstrações.
+Abstrações não deve depender de detalhes, detalhes devem depender de abstrações
+
+programe para uma interface, não para uma implementação.
+
+aclopamento:
+
+conexaoBanco = new MysqlConnection();
+
+class MySqlConnection { public void Conectar() { minha conexao } }
+
+a classe de alto nível está dependendo da baixo nivel.
+
+correção:
+
+interface IdbConnect{void Conectar()}
+Class MySqlConnect : IdbConnect {public void Conectar(){codigo da conexao};}
+
+class Main
+{
+private IdbConnect conexaoBanco;
+
+public RecuperarConecxao(IdbConnect _conexao) //Injeção
+{
+conexaoBanco = _conexao;
+}
+}

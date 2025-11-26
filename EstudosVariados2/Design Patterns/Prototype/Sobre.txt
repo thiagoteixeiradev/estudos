@@ -1,0 +1,9 @@
+﻿O prototype busca especificar tipos de objetos a serem criados usando uma instância protótipo, e criar novos objetos
+pela cópia deste protótipo.
+
+Ele é útil quando precisamos produzir objetos similares, e podemos clonar estes objetos, reutilizando eles.
+
+Como funciona?
+Podemos reultilizar elementos através de cópias, e redefinindo os pontos necessários.
+Pode trazer complexidades com elementos complexos.
+Ver deepcopy e shallow copy

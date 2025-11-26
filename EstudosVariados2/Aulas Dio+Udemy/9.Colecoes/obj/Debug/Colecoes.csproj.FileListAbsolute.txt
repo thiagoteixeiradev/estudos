@@ -1,0 +1,8 @@
+D:\Arquivos\GitHub\Estudos.net\11.Coleções\Colecoes\Colecoes\obj\Debug\Colecoes.csproj.AssemblyReference.cache
+D:\Arquivos\GitHub\Estudos.net\11.Coleções\Colecoes\Colecoes\obj\Debug\Colecoes.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\Estudos.net\11.Coleções\Colecoes\Colecoes\bin\Debug\Colecoes.exe.config
+D:\Arquivos\GitHub\Estudos.net\11.Coleções\Colecoes\Colecoes\bin\Debug\Colecoes.exe
+D:\Arquivos\GitHub\Estudos.net\11.Coleções\Colecoes\Colecoes\bin\Debug\Colecoes.pdb
+D:\Arquivos\GitHub\Estudos.net\11.Coleções\Colecoes\Colecoes\obj\Debug\Colecoes.exe
+D:\Arquivos\GitHub\Estudos.net\11.Coleções\Colecoes\Colecoes\obj\Debug\Colecoes.pdb
+D:\Arquivos\GitHub\Estudos.net\11.Coleções\Colecoes\Colecoes\obj\Debug\Colecoes.exe.config

@@ -1,0 +1,17 @@
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\41.ClienteDeArquivos\bin\Debug\net8.0-windows\41.ClienteDeArquivos.exe
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\41.ClienteDeArquivos\bin\Debug\net8.0-windows\41.ClienteDeArquivos.deps.json
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\41.ClienteDeArquivos\bin\Debug\net8.0-windows\41.ClienteDeArquivos.runtimeconfig.json
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\41.ClienteDeArquivos\bin\Debug\net8.0-windows\41.ClienteDeArquivos.dll
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\41.ClienteDeArquivos\bin\Debug\net8.0-windows\41.ClienteDeArquivos.pdb
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\41.ClienteDeArquivos\obj\Debug\net8.0-windows\_41.ClienteDeArquivos.Form1.resources
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\41.ClienteDeArquivos\obj\Debug\net8.0-windows\41.ClienteDeArquivos.csproj.GenerateResource.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\41.ClienteDeArquivos\obj\Debug\net8.0-windows\41.ClienteDeArquivos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\41.ClienteDeArquivos\obj\Debug\net8.0-windows\41.ClienteDeArquivos.AssemblyInfoInputs.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\41.ClienteDeArquivos\obj\Debug\net8.0-windows\41.ClienteDeArquivos.AssemblyInfo.cs
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\41.ClienteDeArquivos\obj\Debug\net8.0-windows\41.ClienteDeArquivos.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\41.ClienteDeArquivos\obj\Debug\net8.0-windows\41.ClienteDeArquivos.sourcelink.json
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\41.ClienteDeArquivos\obj\Debug\net8.0-windows\41.ClienteDeArquivos.dll
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\41.ClienteDeArquivos\obj\Debug\net8.0-windows\refint\41.ClienteDeArquivos.dll
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\41.ClienteDeArquivos\obj\Debug\net8.0-windows\41.ClienteDeArquivos.pdb
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\41.ClienteDeArquivos\obj\Debug\net8.0-windows\41.ClienteDeArquivos.genruntimeconfig.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\41.ClienteDeArquivos\obj\Debug\net8.0-windows\ref\41.ClienteDeArquivos.dll

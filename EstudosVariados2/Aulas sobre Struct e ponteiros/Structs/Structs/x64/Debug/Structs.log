@@ -1,0 +1,9 @@
+﻿  estrutura1.cpp
+D:\Arquivos\GitHub\Estudos.net\Structs\Structs\estrutura1.cpp(1,9): warning C4067: tokens inesperados após diretiva de pré-processador - esperado um newline
+D:\Arquivos\GitHub\Estudos.net\Structs\Structs\estrutura1.cpp(2,9): warning C4067: tokens inesperados após diretiva de pré-processador - esperado um newline
+D:\Arquivos\GitHub\Estudos.net\Structs\Structs\estrutura1.cpp(15,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Arquivos\GitHub\Estudos.net\Structs\Structs\estrutura1.cpp(17,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Arquivos\GitHub\Estudos.net\Structs\Structs\estrutura1.cpp(19,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Arquivos\GitHub\Estudos.net\Structs\Structs\estrutura1.cpp(21,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Arquivos\GitHub\Estudos.net\Structs\Structs\estrutura1.cpp(23,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Arquivos\GitHub\Estudos.net\Structs\Structs\estrutura1.cpp(25,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

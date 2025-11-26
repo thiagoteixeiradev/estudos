@@ -1,0 +1,15 @@
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\39.SocketCliente\bin\Debug\net8.0\39.SocketCliente.exe
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\39.SocketCliente\bin\Debug\net8.0\39.SocketCliente.deps.json
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\39.SocketCliente\bin\Debug\net8.0\39.SocketCliente.runtimeconfig.json
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\39.SocketCliente\bin\Debug\net8.0\39.SocketCliente.dll
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\39.SocketCliente\bin\Debug\net8.0\39.SocketCliente.pdb
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\39.SocketCliente\obj\Debug\net8.0\39.SocketCliente.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\39.SocketCliente\obj\Debug\net8.0\39.SocketCliente.AssemblyInfoInputs.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\39.SocketCliente\obj\Debug\net8.0\39.SocketCliente.AssemblyInfo.cs
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\39.SocketCliente\obj\Debug\net8.0\39.SocketCliente.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\39.SocketCliente\obj\Debug\net8.0\39.SocketCliente.sourcelink.json
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\39.SocketCliente\obj\Debug\net8.0\39.SocketCliente.dll
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\39.SocketCliente\obj\Debug\net8.0\refint\39.SocketCliente.dll
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\39.SocketCliente\obj\Debug\net8.0\39.SocketCliente.pdb
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\39.SocketCliente\obj\Debug\net8.0\39.SocketCliente.genruntimeconfig.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\39.SocketCliente\obj\Debug\net8.0\ref\39.SocketCliente.dll

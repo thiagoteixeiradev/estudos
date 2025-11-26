@@ -1,0 +1,16 @@
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\6.Estrutura das Classes\bin\Debug\Cadastro.exe.config
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\6.Estrutura das Classes\bin\Debug\Cadastro.exe
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\6.Estrutura das Classes\bin\Debug\Cadastro.pdb
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\6.Estrutura das Classes\obj\Debug\6.Estrutura das Classes.csproj.AssemblyReference.cache
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\6.Estrutura das Classes\obj\Debug\Cadastro.exe.config
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\6.Estrutura das Classes\obj\Debug\6.Estrutura das Classes.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\6.Estrutura das Classes\obj\Debug\Cadastro.exe
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\6.Estrutura das Classes\obj\Debug\Cadastro.pdb
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\6.Estrutura das Classes\bin\Debug\Cadastro.exe.config
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\6.Estrutura das Classes\bin\Debug\Cadastro.exe
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\6.Estrutura das Classes\bin\Debug\Cadastro.pdb
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\6.Estrutura das Classes\obj\Debug\6.Estrutura das Classes.csproj.AssemblyReference.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\6.Estrutura das Classes\obj\Debug\Cadastro.exe.config
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\6.Estrutura das Classes\obj\Debug\6.Estrutura das Classes.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\6.Estrutura das Classes\obj\Debug\Cadastro.exe
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\6.Estrutura das Classes\obj\Debug\Cadastro.pdb

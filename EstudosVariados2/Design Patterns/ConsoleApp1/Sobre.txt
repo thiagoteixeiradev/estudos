@@ -1,0 +1,7 @@
+﻿O Visitor representa uma operação a ser executada nos elementos de uma estrutura de objetos,
+permitindo definir uma nova operação sem mudar as classes dos elementos sobre os quais opera.
+
+Vantagens: Respeita os princípios SOLID.
+
+desvantagens: visitantes podem não ter permissoes requeridas, pode ser preciso atualizar todos eles de acordo
+com as funções.

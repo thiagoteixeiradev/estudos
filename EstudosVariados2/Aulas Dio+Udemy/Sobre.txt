@@ -1,0 +1,24 @@
+async em C# é uma palavra-chave usada para marcar um método como assíncrono, ou seja, um método que não bloqueia a thread principal enquanto espera por uma operação demorada (como acessar banco de dados, ler arquivos, chamar uma API, etc.).
+
+Em termos simples
+Imagine que você pede uma pizza por telefone:
+
+Sem async (síncrono): você fica parado do lado do telefone esperando a pizza chegar.
+Nada mais pode acontecer até o pedido ser entregue.
+
+Com async (assíncrono): você pede a pizza e continua fazendo outras coisas.
+Quando a pizza chega, o entregador toca a campainha e você só para nesse momento para recebê-la.
+
+Como funciona no C#: async marca o método.
+Dentro dele, você usa await para esperar uma tarefa (Task) terminar sem bloquear.
+Enquanto isso, a thread pode continuar executando outras partes do programa.
+
+
+Principais comandos para assync
+
+async	Marca um método como assíncrono, permitindo o uso de await.
+await	Aguarda a conclusão de uma tarefa assíncrona sem bloquear a thread.
+Task	Representa uma operação assíncrona que pode retornar um resultado.
+Task<T>	Versão genérica de Task, retorna um valor do tipo T.
+ValueTask	Alternativa mais leve a Task, útil em cenários de alta performance.
+yield + await foreach	Iteração assíncrona em coleções (C# 8+).

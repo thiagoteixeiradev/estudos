@@ -1,0 +1,20 @@
+Delegates em C# são tipos que representam referências para métodos.
+Eles permitem armazenar métodos em variáveis, passar métodos como parâmetros e
+construir padrões como eventos e callbacks.
+
+Ponteiro seguro para métodos.
+
+  public delegate void Operacao(int numero);
+
+  public static void MostrarDobro(int n) => Console.WriteLine(n * 2);
+  public static void MostrarTriplo(int n) => Console.WriteLine(n * 3);
+
+   public static void Main()
+    {
+        Operacao op = MostrarDobro; // Associa o método MostrarDobro
+        op(5);                      // Saída: 10
+
+        op += MostrarTriplo;        // Agora o delegate chama os dois métodos
+        op(4);                      // Saída: 8 \n 12
+    }
+}

@@ -1,0 +1,8 @@
+D:\Arquivos\GitHub\Estudos.net\15.Herança\ExemploPOO\ExemploPOO\obj\Debug\ExemploPOO.csproj.AssemblyReference.cache
+D:\Arquivos\GitHub\Estudos.net\15.Herança\ExemploPOO\ExemploPOO\obj\Debug\ExemploPOO.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\Estudos.net\15.Herança\ExemploPOO\ExemploPOO\bin\Debug\ExemploPOO.exe.config
+D:\Arquivos\GitHub\Estudos.net\15.Herança\ExemploPOO\ExemploPOO\bin\Debug\ExemploPOO.exe
+D:\Arquivos\GitHub\Estudos.net\15.Herança\ExemploPOO\ExemploPOO\bin\Debug\ExemploPOO.pdb
+D:\Arquivos\GitHub\Estudos.net\15.Herança\ExemploPOO\ExemploPOO\obj\Debug\ExemploPOO.exe
+D:\Arquivos\GitHub\Estudos.net\15.Herança\ExemploPOO\ExemploPOO\obj\Debug\ExemploPOO.pdb
+D:\Arquivos\GitHub\Estudos.net\15.Herança\ExemploPOO\ExemploPOO\obj\Debug\ExemploPOO.exe.config

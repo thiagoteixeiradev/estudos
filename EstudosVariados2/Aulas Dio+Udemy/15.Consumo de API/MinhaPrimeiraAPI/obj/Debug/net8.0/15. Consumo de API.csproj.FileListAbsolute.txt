@@ -1,0 +1,72 @@
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\15.Consumo de API\MinhaPrimeiraAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\15.Consumo de API\MinhaPrimeiraAPI\bin\Debug\net8.0\appsettings.json
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\15.Consumo de API\MinhaPrimeiraAPI\bin\Debug\net8.0\15. Consumo de API.staticwebassets.endpoints.json
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\15.Consumo de API\MinhaPrimeiraAPI\bin\Debug\net8.0\15. Consumo de API.exe
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\15.Consumo de API\MinhaPrimeiraAPI\bin\Debug\net8.0\15. Consumo de API.deps.json
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\15.Consumo de API\MinhaPrimeiraAPI\bin\Debug\net8.0\15. Consumo de API.runtimeconfig.json
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\15.Consumo de API\MinhaPrimeiraAPI\bin\Debug\net8.0\15. Consumo de API.dll
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\15.Consumo de API\MinhaPrimeiraAPI\bin\Debug\net8.0\15. Consumo de API.pdb
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\15.Consumo de API\MinhaPrimeiraAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\15.Consumo de API\MinhaPrimeiraAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\15.Consumo de API\MinhaPrimeiraAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\15.Consumo de API\MinhaPrimeiraAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\15.Consumo de API\MinhaPrimeiraAPI\obj\Debug\net8.0\15. Consumo de API.csproj.AssemblyReference.cache
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\15.Consumo de API\MinhaPrimeiraAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\15.Consumo de API\MinhaPrimeiraAPI\obj\Debug\net8.0\15. Consumo de API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\15.Consumo de API\MinhaPrimeiraAPI\obj\Debug\net8.0\15. Consumo de API.AssemblyInfoInputs.cache
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\15.Consumo de API\MinhaPrimeiraAPI\obj\Debug\net8.0\15. Consumo de API.AssemblyInfo.cs
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\15.Consumo de API\MinhaPrimeiraAPI\obj\Debug\net8.0\15. Consumo de API.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\15.Consumo de API\MinhaPrimeiraAPI\obj\Debug\net8.0\15. Consumo de API.MvcApplicationPartsAssemblyInfo.cs
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\15.Consumo de API\MinhaPrimeiraAPI\obj\Debug\net8.0\15. Consumo de API.MvcApplicationPartsAssemblyInfo.cache
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\15.Consumo de API\MinhaPrimeiraAPI\obj\Debug\net8.0\15. Consumo de API.sourcelink.json
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\15.Consumo de API\MinhaPrimeiraAPI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\15.Consumo de API\MinhaPrimeiraAPI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\15.Consumo de API\MinhaPrimeiraAPI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\15.Consumo de API\MinhaPrimeiraAPI\obj\Debug\net8.0\scopedcss\bundle\15. Consumo de API.styles.css
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\15.Consumo de API\MinhaPrimeiraAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\15.Consumo de API\MinhaPrimeiraAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\15.Consumo de API\MinhaPrimeiraAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\15.Consumo de API\MinhaPrimeiraAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\15.Consumo de API\MinhaPrimeiraAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\15.Consumo de API\MinhaPrimeiraAPI\obj\Debug\net8.0\15. Cons.4B636FFE.Up2Date
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\15.Consumo de API\MinhaPrimeiraAPI\obj\Debug\net8.0\15. Consumo de API.dll
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\15.Consumo de API\MinhaPrimeiraAPI\obj\Debug\net8.0\refint\15. Consumo de API.dll
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\15.Consumo de API\MinhaPrimeiraAPI\obj\Debug\net8.0\15. Consumo de API.pdb
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\15.Consumo de API\MinhaPrimeiraAPI\obj\Debug\net8.0\15. Consumo de API.genruntimeconfig.cache
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\15.Consumo de API\MinhaPrimeiraAPI\obj\Debug\net8.0\ref\15. Consumo de API.dll
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\15.Consumo de API\MinhaPrimeiraAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\15.Consumo de API\MinhaPrimeiraAPI\bin\Debug\net8.0\appsettings.json
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\15.Consumo de API\MinhaPrimeiraAPI\bin\Debug\net8.0\15. Consumo de API.staticwebassets.endpoints.json
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\15.Consumo de API\MinhaPrimeiraAPI\bin\Debug\net8.0\15. Consumo de API.exe
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\15.Consumo de API\MinhaPrimeiraAPI\bin\Debug\net8.0\15. Consumo de API.deps.json
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\15.Consumo de API\MinhaPrimeiraAPI\bin\Debug\net8.0\15. Consumo de API.runtimeconfig.json
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\15.Consumo de API\MinhaPrimeiraAPI\bin\Debug\net8.0\15. Consumo de API.dll
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\15.Consumo de API\MinhaPrimeiraAPI\bin\Debug\net8.0\15. Consumo de API.pdb
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\15.Consumo de API\MinhaPrimeiraAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\15.Consumo de API\MinhaPrimeiraAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\15.Consumo de API\MinhaPrimeiraAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\15.Consumo de API\MinhaPrimeiraAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\15.Consumo de API\MinhaPrimeiraAPI\obj\Debug\net8.0\15. Consumo de API.csproj.AssemblyReference.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\15.Consumo de API\MinhaPrimeiraAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\15.Consumo de API\MinhaPrimeiraAPI\obj\Debug\net8.0\15. Consumo de API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\15.Consumo de API\MinhaPrimeiraAPI\obj\Debug\net8.0\15. Consumo de API.AssemblyInfoInputs.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\15.Consumo de API\MinhaPrimeiraAPI\obj\Debug\net8.0\15. Consumo de API.AssemblyInfo.cs
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\15.Consumo de API\MinhaPrimeiraAPI\obj\Debug\net8.0\15. Consumo de API.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\15.Consumo de API\MinhaPrimeiraAPI\obj\Debug\net8.0\15. Consumo de API.MvcApplicationPartsAssemblyInfo.cs
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\15.Consumo de API\MinhaPrimeiraAPI\obj\Debug\net8.0\15. Consumo de API.MvcApplicationPartsAssemblyInfo.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\15.Consumo de API\MinhaPrimeiraAPI\obj\Debug\net8.0\15. Consumo de API.sourcelink.json
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\15.Consumo de API\MinhaPrimeiraAPI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\15.Consumo de API\MinhaPrimeiraAPI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\15.Consumo de API\MinhaPrimeiraAPI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\15.Consumo de API\MinhaPrimeiraAPI\obj\Debug\net8.0\scopedcss\bundle\15. Consumo de API.styles.css
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\15.Consumo de API\MinhaPrimeiraAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\15.Consumo de API\MinhaPrimeiraAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\15.Consumo de API\MinhaPrimeiraAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\15.Consumo de API\MinhaPrimeiraAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\15.Consumo de API\MinhaPrimeiraAPI\obj\Debug\net8.0\15. Cons.4B636FFE.Up2Date
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\15.Consumo de API\MinhaPrimeiraAPI\obj\Debug\net8.0\15. Consumo de API.dll
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\15.Consumo de API\MinhaPrimeiraAPI\obj\Debug\net8.0\refint\15. Consumo de API.dll
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\15.Consumo de API\MinhaPrimeiraAPI\obj\Debug\net8.0\15. Consumo de API.pdb
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\15.Consumo de API\MinhaPrimeiraAPI\obj\Debug\net8.0\15. Consumo de API.genruntimeconfig.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\15.Consumo de API\MinhaPrimeiraAPI\obj\Debug\net8.0\ref\15. Consumo de API.dll
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\15.Consumo de API\MinhaPrimeiraAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

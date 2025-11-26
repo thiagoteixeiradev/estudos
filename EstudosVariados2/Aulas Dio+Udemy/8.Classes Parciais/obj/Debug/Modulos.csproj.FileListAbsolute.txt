@@ -1,0 +1,8 @@
+D:\Arquivos\GitHub\Estudos.net\8.Classes Parciais\Modulos\Modulos\obj\Debug\Modulos.csproj.AssemblyReference.cache
+D:\Arquivos\GitHub\Estudos.net\8.Classes Parciais\Modulos\Modulos\obj\Debug\Modulos.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\Estudos.net\8.Classes Parciais\Modulos\Modulos\bin\Debug\Modulos.exe.config
+D:\Arquivos\GitHub\Estudos.net\8.Classes Parciais\Modulos\Modulos\bin\Debug\Modulos.exe
+D:\Arquivos\GitHub\Estudos.net\8.Classes Parciais\Modulos\Modulos\bin\Debug\Modulos.pdb
+D:\Arquivos\GitHub\Estudos.net\8.Classes Parciais\Modulos\Modulos\obj\Debug\Modulos.exe
+D:\Arquivos\GitHub\Estudos.net\8.Classes Parciais\Modulos\Modulos\obj\Debug\Modulos.pdb
+D:\Arquivos\GitHub\Estudos.net\8.Classes Parciais\Modulos\Modulos\obj\Debug\Modulos.exe.config

@@ -1,0 +1,8 @@
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\0.Atividades Estudos\2.MultiplicandoMatrizes\bin\Debug\MultiplicandoMatrizes.exe.config
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\0.Atividades Estudos\2.MultiplicandoMatrizes\bin\Debug\MultiplicandoMatrizes.exe
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\0.Atividades Estudos\2.MultiplicandoMatrizes\bin\Debug\MultiplicandoMatrizes.pdb
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\0.Atividades Estudos\2.MultiplicandoMatrizes\obj\Debug\2.MultiplicandoMatrizes.csproj.AssemblyReference.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\0.Atividades Estudos\2.MultiplicandoMatrizes\obj\Debug\MultiplicandoMatrizes.exe.config
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\0.Atividades Estudos\2.MultiplicandoMatrizes\obj\Debug\2.MultiplicandoMatrizes.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\0.Atividades Estudos\2.MultiplicandoMatrizes\obj\Debug\MultiplicandoMatrizes.exe
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\0.Atividades Estudos\2.MultiplicandoMatrizes\obj\Debug\MultiplicandoMatrizes.pdb

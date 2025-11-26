@@ -1,0 +1,61 @@
+Uma Classe base deve poder ser substituida pela sua classe derivada,
+sem alteracao no comportamento final.
+Pode ser aplicado em casos de heranca.
+se uma classe derivada estender ou sobrescrever o comportamento da classe base, implementando um novo
+comportamento, isso viola o principio. 
+
+Quando ocorre? - ao retornar um objeto incompatível com o objeto da classe base,
+ao lançar uma nova exceção que não é lançado na base.
+Altera a semântica ou introduz efeitos colaterais que não fazem parte do contrato da classe base.
+
+indicios de violações: implementação vazia e que nao faz nada na classe derivada,
+lançar uma exceção inesperada diferente da base, na classe derivada,
+override, ou uso de lógica condicional para indentificar a classe derivada a ser usada.
+
+fatores básicos para serem considerados:
+
+classe base tem comportamento inutil para a derivada?
+o comportamento extrno é alterado se substituirmos a instância da classe base pela instancia da derivada?
+-se sim, temos uma violação.
+
+problemas e consequências:
+
+geração de problemas na classe cliente, onde a herança está sendo aplicada.
+comportamento inesperado no código por suposições equivocadas.
+violações de outros princípios.
+
+
+ex1:
+
+funcionario (string nome, string cargo)
+gerente : funcionario (double bonus, gerente(), calculaSalario(salario + bonus))
+vendedor : funcionario (double comissao, gerente(), calculaSalario(salario + comissao))
+
+CalculaSalario é quebrado ao instânciar.
+
+correção: incluir metodo virtual calcula salario e fazer o override nas classes derivadas.
+
+funcionario (string nome, string cargo, (virtual)calculasalario)
+gerente : funcionario (double bonus, gerente(), (override)calculaSalario(salario + bonus))
+vendedor : funcionario (double comissao, gerente(), (override)calculaSalario(salario + comissao))
+
+ex2
+
+CalculaSoma(numeros(array), Calcular(), CalculaSoma());
+CalculaSomaNumerosPares : CalculaSoma(new Calcular(), CalculaSomaNumerosPares());
+
+o comportamento vai ser alterado.
+no CalculaSomaNumerosPares o new Calcular oculta o Calcular da base, pois voce nao pode
+substituir a instancia da base pela derivada.
+
+CalculaSoma soma = new CalculaSomaNumerosPares(numeros);
+
+
+ex3:
+Passaro(nome, botaroovo(), comer(), voar(), passaro())
+Pato:Passaro(botaroovo(), comer(), voar(), Pato())
+Pinguim:Passaro(botaroovo(), comer(), voar(), Pinguim())
+
+Pinguim não voa, portanto seria uma excessão.
+o correto seria criar outra classe, ex: Passaros, e PassarosVoadores
+logo pato herdaria de passaros voadores, e pinguim de passaros.

@@ -1,0 +1,11 @@
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\30.ControledasFormsPt4\bin\Debug\30.ControledasFormsPt4.exe.config
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\30.ControledasFormsPt4\bin\Debug\30.ControledasFormsPt4.exe
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\30.ControledasFormsPt4\bin\Debug\30.ControledasFormsPt4.pdb
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\30.ControledasFormsPt4\obj\Debug\30.ControledasFormsPt4.csproj.AssemblyReference.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\30.ControledasFormsPt4\obj\Debug\_30.ControledasFormsPt4.Form1.resources
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\30.ControledasFormsPt4\obj\Debug\_30.ControledasFormsPt4.Properties.Resources.resources
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\30.ControledasFormsPt4\obj\Debug\30.ControledasFormsPt4.csproj.GenerateResource.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\30.ControledasFormsPt4\obj\Debug\30.ControledasFormsPt4.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\30.ControledasFormsPt4\obj\Debug\30.ControledasFormsPt4.exe
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\30.ControledasFormsPt4\obj\Debug\30.ControledasFormsPt4.pdb
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\30.ControledasFormsPt4\obj\Debug\30.ControledasFormsPt4.exe.config

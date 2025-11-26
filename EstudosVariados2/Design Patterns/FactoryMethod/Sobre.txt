@@ -1,0 +1,17 @@
+﻿O Factory Method serve para fornecer uma interface para a criação de objetos,
+deixando as subclasses decidirem qual classe concreta instanciar.
+Desvinculando o código que usa o objeto da lógica de criação e permitindo alta
+flexibilidade. 
+
+Ele é útil quando você precisa introduzir novas variantes de produtos
+sem modificar o código cliente e para extrair a lógica de criação para um local
+dedicado, aumentando a manutenção do código. 
+
+Como funciona?
+Interface de criação: Uma superclasse (ou classe abstrata) define um método de 
+fábrica, a "interface" para criar objetos.
+Subclasses decidem a criação: As subclasses podem sobrescrever (substituir) esse
+método de fábrica para criar diferentes classes concretas de objetos, sem que o código cliente precise saber qual classe específica foi criada.
+Abstração: O código cliente interage com o objeto criado através de uma interface
+ou classe abstrata comum, em vez de uma classe concreta, mantendo o código flexível.
+

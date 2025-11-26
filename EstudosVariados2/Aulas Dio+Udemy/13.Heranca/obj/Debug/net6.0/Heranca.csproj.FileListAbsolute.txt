@@ -1,0 +1,16 @@
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\13.Heranca\obj\Debug\net6.0\Heranca.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\13.Heranca\obj\Debug\net6.0\Heranca.AssemblyInfoInputs.cache
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\13.Heranca\obj\Debug\net6.0\Heranca.AssemblyInfo.cs
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\13.Heranca\obj\Debug\net6.0\Heranca.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\13.Heranca\obj\Debug\net6.0\Heranca.sourcelink.json
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\13.Heranca\bin\Debug\net6.0\Heranca.exe
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\13.Heranca\bin\Debug\net6.0\Heranca.dll.config
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\13.Heranca\bin\Debug\net6.0\Heranca.deps.json
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\13.Heranca\bin\Debug\net6.0\Heranca.runtimeconfig.json
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\13.Heranca\bin\Debug\net6.0\Heranca.dll
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\13.Heranca\bin\Debug\net6.0\Heranca.pdb
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\13.Heranca\obj\Debug\net6.0\Heranca.dll
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\13.Heranca\obj\Debug\net6.0\refint\Heranca.dll
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\13.Heranca\obj\Debug\net6.0\Heranca.pdb
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\13.Heranca\obj\Debug\net6.0\Heranca.genruntimeconfig.cache
+D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\13.Heranca\obj\Debug\net6.0\ref\Heranca.dll

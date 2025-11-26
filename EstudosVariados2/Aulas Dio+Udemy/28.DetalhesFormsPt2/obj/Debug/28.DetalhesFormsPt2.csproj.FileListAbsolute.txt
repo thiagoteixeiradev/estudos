@@ -1,0 +1,11 @@
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\28.DetalhesFormsPt2\bin\Debug\28.DetalhesFormsPt2.exe.config
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\28.DetalhesFormsPt2\bin\Debug\28.DetalhesFormsPt2.exe
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\28.DetalhesFormsPt2\bin\Debug\28.DetalhesFormsPt2.pdb
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\28.DetalhesFormsPt2\obj\Debug\28.DetalhesFormsPt2.csproj.AssemblyReference.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\28.DetalhesFormsPt2\obj\Debug\_28.DetalhesFormsPt2.Form1.resources
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\28.DetalhesFormsPt2\obj\Debug\_28.DetalhesFormsPt2.Properties.Resources.resources
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\28.DetalhesFormsPt2\obj\Debug\28.DetalhesFormsPt2.csproj.GenerateResource.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\28.DetalhesFormsPt2\obj\Debug\28.DetalhesFormsPt2.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\28.DetalhesFormsPt2\obj\Debug\28.DetalhesFormsPt2.exe
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\28.DetalhesFormsPt2\obj\Debug\28.DetalhesFormsPt2.pdb
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\28.DetalhesFormsPt2\obj\Debug\28.DetalhesFormsPt2.exe.config

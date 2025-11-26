@@ -1,0 +1,8 @@
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\10.Tuplas\bin\Debug\Tuplas.exe.config
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\10.Tuplas\bin\Debug\Tuplas.exe
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\10.Tuplas\bin\Debug\Tuplas.pdb
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\10.Tuplas\obj\Debug\10.Tuplas.csproj.AssemblyReference.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\10.Tuplas\obj\Debug\Tuplas.exe.config
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\10.Tuplas\obj\Debug\10.Tuplas.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\10.Tuplas\obj\Debug\Tuplas.exe
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\10.Tuplas\obj\Debug\Tuplas.pdb

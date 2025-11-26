@@ -1,0 +1,8 @@
+﻿Decorator: quando eu tenho um elemento, ou classe padrão e desejo acresentar caracteristicas, ou seja
+decorar dinâmicamente ( com o app em execução), e trabalhar seus atributos, campos e comportamentos, fazendo com que
+assumam outros comportamento ou características.
+É uma alternativa a herança.
+Os decorators fornecem ma alternativa flexível ao us de subclasses para extensão de suas funcionalidades.
+
+Como funciona?
+geramos uma estrutura do tipo arvore, onde temos a raiz, e suas folhas.

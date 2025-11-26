@@ -1,0 +1,11 @@
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\31.TryCatch\bin\Debug\31.TryCatch.exe.config
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\31.TryCatch\bin\Debug\31.TryCatch.exe
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\31.TryCatch\bin\Debug\31.TryCatch.pdb
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\31.TryCatch\obj\Debug\31.TryCatch.csproj.AssemblyReference.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\31.TryCatch\obj\Debug\_31.TryCatch.Erros.resources
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\31.TryCatch\obj\Debug\_31.TryCatch.Properties.Resources.resources
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\31.TryCatch\obj\Debug\31.TryCatch.csproj.GenerateResource.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\31.TryCatch\obj\Debug\31.TryCatch.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\31.TryCatch\obj\Debug\31.TryCatch.exe
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\31.TryCatch\obj\Debug\31.TryCatch.pdb
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\31.TryCatch\obj\Debug\31.TryCatch.exe.config

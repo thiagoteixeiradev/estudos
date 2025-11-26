@@ -1,0 +1,17 @@
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\45.CriptoGuardian\bin\Debug\net8.0-windows\45.CriptoGuardian.exe
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\45.CriptoGuardian\bin\Debug\net8.0-windows\45.CriptoGuardian.deps.json
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\45.CriptoGuardian\bin\Debug\net8.0-windows\45.CriptoGuardian.runtimeconfig.json
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\45.CriptoGuardian\bin\Debug\net8.0-windows\45.CriptoGuardian.dll
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\45.CriptoGuardian\bin\Debug\net8.0-windows\45.CriptoGuardian.pdb
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\45.CriptoGuardian\obj\Debug\net8.0-windows\_45.CriptoGuardian.CriptoGuardian.resources
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\45.CriptoGuardian\obj\Debug\net8.0-windows\45.CriptoGuardian.csproj.GenerateResource.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\45.CriptoGuardian\obj\Debug\net8.0-windows\45.CriptoGuardian.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\45.CriptoGuardian\obj\Debug\net8.0-windows\45.CriptoGuardian.AssemblyInfoInputs.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\45.CriptoGuardian\obj\Debug\net8.0-windows\45.CriptoGuardian.AssemblyInfo.cs
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\45.CriptoGuardian\obj\Debug\net8.0-windows\45.CriptoGuardian.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\45.CriptoGuardian\obj\Debug\net8.0-windows\45.CriptoGuardian.sourcelink.json
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\45.CriptoGuardian\obj\Debug\net8.0-windows\45.CriptoGuardian.dll
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\45.CriptoGuardian\obj\Debug\net8.0-windows\refint\45.CriptoGuardian.dll
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\45.CriptoGuardian\obj\Debug\net8.0-windows\45.CriptoGuardian.pdb
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\45.CriptoGuardian\obj\Debug\net8.0-windows\45.CriptoGuardian.genruntimeconfig.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\45.CriptoGuardian\obj\Debug\net8.0-windows\ref\45.CriptoGuardian.dll

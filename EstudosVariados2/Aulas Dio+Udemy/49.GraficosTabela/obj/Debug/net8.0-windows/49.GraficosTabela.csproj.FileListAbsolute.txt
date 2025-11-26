@@ -1,0 +1,17 @@
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\49.GraficosTabela\bin\Debug\net8.0-windows\49.GraficosTabela.exe
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\49.GraficosTabela\bin\Debug\net8.0-windows\49.GraficosTabela.deps.json
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\49.GraficosTabela\bin\Debug\net8.0-windows\49.GraficosTabela.runtimeconfig.json
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\49.GraficosTabela\bin\Debug\net8.0-windows\49.GraficosTabela.dll
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\49.GraficosTabela\bin\Debug\net8.0-windows\49.GraficosTabela.pdb
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\49.GraficosTabela\obj\Debug\net8.0-windows\_49.GraficosTabela.Form1.resources
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\49.GraficosTabela\obj\Debug\net8.0-windows\49.GraficosTabela.csproj.GenerateResource.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\49.GraficosTabela\obj\Debug\net8.0-windows\49.GraficosTabela.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\49.GraficosTabela\obj\Debug\net8.0-windows\49.GraficosTabela.AssemblyInfoInputs.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\49.GraficosTabela\obj\Debug\net8.0-windows\49.GraficosTabela.AssemblyInfo.cs
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\49.GraficosTabela\obj\Debug\net8.0-windows\49.GraficosTabela.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\49.GraficosTabela\obj\Debug\net8.0-windows\49.GraficosTabela.sourcelink.json
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\49.GraficosTabela\obj\Debug\net8.0-windows\49.GraficosTabela.dll
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\49.GraficosTabela\obj\Debug\net8.0-windows\refint\49.GraficosTabela.dll
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\49.GraficosTabela\obj\Debug\net8.0-windows\49.GraficosTabela.pdb
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\49.GraficosTabela\obj\Debug\net8.0-windows\49.GraficosTabela.genruntimeconfig.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\49.GraficosTabela\obj\Debug\net8.0-windows\ref\49.GraficosTabela.dll

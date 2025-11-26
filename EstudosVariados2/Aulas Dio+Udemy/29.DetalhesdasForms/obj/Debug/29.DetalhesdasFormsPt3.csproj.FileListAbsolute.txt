@@ -1,0 +1,11 @@
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\29.DetalhesdasForms\bin\Debug\29.DetalhesdasForms.exe.config
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\29.DetalhesdasForms\bin\Debug\29.DetalhesdasForms.exe
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\29.DetalhesdasForms\bin\Debug\29.DetalhesdasForms.pdb
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\29.DetalhesdasForms\obj\Debug\29.DetalhesdasFormsPt3.csproj.AssemblyReference.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\29.DetalhesdasForms\obj\Debug\_29.DetalhesdasForms.Form1.resources
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\29.DetalhesdasForms\obj\Debug\_29.DetalhesdasForms.Properties.Resources.resources
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\29.DetalhesdasForms\obj\Debug\29.DetalhesdasFormsPt3.csproj.GenerateResource.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\29.DetalhesdasForms\obj\Debug\29.DetalhesdasFormsPt3.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\29.DetalhesdasForms\obj\Debug\29.DetalhesdasForms.exe
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\29.DetalhesdasForms\obj\Debug\29.DetalhesdasForms.pdb
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\29.DetalhesdasForms\obj\Debug\29.DetalhesdasForms.exe.config

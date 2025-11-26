@@ -1,0 +1,7 @@
+﻿Singleton garante que uma classe tenha somente uma instância e fornece um ponto global de acesso para ela.
+
+Ele é útil quando precisamos forçar e apontar de maneira consistente uma implementação, sem precisar instânciar ela em
+todo o meu sistema, tendo uma instância única.
+
+Como funciona?
+Você vai criar seu elemento que será acessado, instânciando ele, após isto, você  só precisa chamar ele, ou iniciar ele em uma variável.

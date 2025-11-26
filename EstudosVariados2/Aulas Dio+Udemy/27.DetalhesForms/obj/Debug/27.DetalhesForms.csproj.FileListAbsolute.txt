@@ -1,0 +1,11 @@
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\27.DetalhesForms\bin\Debug\27.DetalhesForms.exe.config
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\27.DetalhesForms\bin\Debug\27.DetalhesForms.exe
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\27.DetalhesForms\bin\Debug\27.DetalhesForms.pdb
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\27.DetalhesForms\obj\Debug\27.DetalhesForms.csproj.AssemblyReference.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\27.DetalhesForms\obj\Debug\_27.DetalhesForms.Properties.Resources.resources
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\27.DetalhesForms\obj\Debug\27.DetalhesForms.csproj.GenerateResource.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\27.DetalhesForms\obj\Debug\27.DetalhesForms.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\27.DetalhesForms\obj\Debug\27.DetalhesForms.exe
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\27.DetalhesForms\obj\Debug\27.DetalhesForms.pdb
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\27.DetalhesForms\obj\Debug\27.DetalhesForms.exe.config
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\27.DetalhesForms\obj\Debug\_27.DetalhesForms.btnRemoverTudo.resources

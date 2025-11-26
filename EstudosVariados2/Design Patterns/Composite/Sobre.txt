@@ -1,0 +1,5 @@
+﻿Composite permite compor objetos em estruturas de arvore, para representar hierarquia partes-todo.
+Permite ao clientes tratarem de maneira uniforme os objetivos individuais e composições de objetos.
+
+Como funciona?
+geramos uma estrutura do tipo arvore, onde temos a raiz, e suas folhas.

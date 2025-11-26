@@ -1,0 +1,4 @@
+﻿Observer, definir uma dependência um para muitos, entre objetos, de maneira que quando um objeto muda de estado,
+todos os seus dependentes sejam notificados e atualizados automaticamente.
+
+quando a mudança de um status de um objeto, deve refletir em outros objetos.

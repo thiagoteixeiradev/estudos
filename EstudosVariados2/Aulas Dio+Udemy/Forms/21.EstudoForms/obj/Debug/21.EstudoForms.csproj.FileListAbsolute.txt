@@ -1,0 +1,4 @@
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\Forms\21.EstudoForms\obj\Debug\21.EstudoForms.csproj.AssemblyReference.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\Forms\21.EstudoForms\obj\Debug\EstudoForms.exe.config
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\Forms\21.EstudoForms\obj\Debug\EstudoForms.exe
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\Forms\21.EstudoForms\obj\Debug\EstudoForms.pdb

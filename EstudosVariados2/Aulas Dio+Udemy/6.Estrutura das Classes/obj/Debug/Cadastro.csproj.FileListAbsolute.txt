@@ -1,0 +1,8 @@
+D:\Arquivos\GitHub\Estudos.net\6.Atributos das Classes\Cadastro\Cadastro\bin\Debug\Cadastro.exe.config
+D:\Arquivos\GitHub\Estudos.net\6.Atributos das Classes\Cadastro\Cadastro\bin\Debug\Cadastro.exe
+D:\Arquivos\GitHub\Estudos.net\6.Atributos das Classes\Cadastro\Cadastro\bin\Debug\Cadastro.pdb
+D:\Arquivos\GitHub\Estudos.net\6.Atributos das Classes\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.AssemblyReference.cache
+D:\Arquivos\GitHub\Estudos.net\6.Atributos das Classes\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\Estudos.net\6.Atributos das Classes\Cadastro\Cadastro\obj\Debug\Cadastro.exe
+D:\Arquivos\GitHub\Estudos.net\6.Atributos das Classes\Cadastro\Cadastro\obj\Debug\Cadastro.pdb
+D:\Arquivos\GitHub\Estudos.net\6.Atributos das Classes\Cadastro\Cadastro\obj\Debug\Cadastro.exe.config

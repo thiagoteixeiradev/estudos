@@ -1,0 +1,17 @@
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\48.CapturarTeclas\bin\Debug\net8.0-windows\48.CapturarTeclas.exe
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\48.CapturarTeclas\bin\Debug\net8.0-windows\48.CapturarTeclas.deps.json
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\48.CapturarTeclas\bin\Debug\net8.0-windows\48.CapturarTeclas.runtimeconfig.json
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\48.CapturarTeclas\bin\Debug\net8.0-windows\48.CapturarTeclas.dll
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\48.CapturarTeclas\bin\Debug\net8.0-windows\48.CapturarTeclas.pdb
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\48.CapturarTeclas\obj\Debug\net8.0-windows\_48.CapturarTeclas.Form1.resources
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\48.CapturarTeclas\obj\Debug\net8.0-windows\48.CapturarTeclas.csproj.GenerateResource.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\48.CapturarTeclas\obj\Debug\net8.0-windows\48.CapturarTeclas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\48.CapturarTeclas\obj\Debug\net8.0-windows\48.CapturarTeclas.AssemblyInfoInputs.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\48.CapturarTeclas\obj\Debug\net8.0-windows\48.CapturarTeclas.AssemblyInfo.cs
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\48.CapturarTeclas\obj\Debug\net8.0-windows\48.CapturarTeclas.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\48.CapturarTeclas\obj\Debug\net8.0-windows\48.CapturarTeclas.sourcelink.json
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\48.CapturarTeclas\obj\Debug\net8.0-windows\48.CapturarTeclas.dll
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\48.CapturarTeclas\obj\Debug\net8.0-windows\refint\48.CapturarTeclas.dll
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\48.CapturarTeclas\obj\Debug\net8.0-windows\48.CapturarTeclas.pdb
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\48.CapturarTeclas\obj\Debug\net8.0-windows\48.CapturarTeclas.genruntimeconfig.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\48.CapturarTeclas\obj\Debug\net8.0-windows\ref\48.CapturarTeclas.dll

@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <!-- Define que é um aplicativo executável -->
+    <OutputType>Exe</OutputType>
+    <!-- Define o framework alvo -->
+    <TargetFramework>net8.0</TargetFramework>
+    <!-- Define a versão da linguagem C# -->
+    <LangVersion>10.0</LangVersion>
+    <!-- Opcional: habilita nullable e implicit usings -->
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+</Project>

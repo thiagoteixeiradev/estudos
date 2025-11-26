@@ -1,0 +1,17 @@
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\ServidorDeArquivos\bin\Debug\net8.0-windows\40.ServidorDeArquivos.exe
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\ServidorDeArquivos\bin\Debug\net8.0-windows\40.ServidorDeArquivos.deps.json
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\ServidorDeArquivos\bin\Debug\net8.0-windows\40.ServidorDeArquivos.runtimeconfig.json
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\ServidorDeArquivos\bin\Debug\net8.0-windows\40.ServidorDeArquivos.dll
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\ServidorDeArquivos\bin\Debug\net8.0-windows\40.ServidorDeArquivos.pdb
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\ServidorDeArquivos\obj\Debug\net8.0-windows\ServidorDeArquivos.TelaPrincipal.resources
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\ServidorDeArquivos\obj\Debug\net8.0-windows\40.ServidorDeArquivos.csproj.GenerateResource.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\ServidorDeArquivos\obj\Debug\net8.0-windows\40.ServidorDeArquivos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\ServidorDeArquivos\obj\Debug\net8.0-windows\40.ServidorDeArquivos.AssemblyInfoInputs.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\ServidorDeArquivos\obj\Debug\net8.0-windows\40.ServidorDeArquivos.AssemblyInfo.cs
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\ServidorDeArquivos\obj\Debug\net8.0-windows\40.ServidorDeArquivos.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\ServidorDeArquivos\obj\Debug\net8.0-windows\40.ServidorDeArquivos.sourcelink.json
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\ServidorDeArquivos\obj\Debug\net8.0-windows\40.ServidorDeArquivos.dll
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\ServidorDeArquivos\obj\Debug\net8.0-windows\refint\40.ServidorDeArquivos.dll
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\ServidorDeArquivos\obj\Debug\net8.0-windows\40.ServidorDeArquivos.pdb
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\ServidorDeArquivos\obj\Debug\net8.0-windows\40.ServidorDeArquivos.genruntimeconfig.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\ServidorDeArquivos\obj\Debug\net8.0-windows\ref\40.ServidorDeArquivos.dll

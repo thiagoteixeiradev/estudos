@@ -1,0 +1,13 @@
+﻿O Abstract Method serve traz um método declarado, mas não implementado, definindo a assinatura,
+porém, não tem corpo, deixando a implementação para as subclasses.
+
+Ele é útil quando você precisa trabalhar com famílias de produtos ou objetos relacionados.
+
+Como funciona?
+Interface de criação: Uma superclasse (ou classe abstrata) define um método de 
+fábrica, a "interface" para criar objetos.
+Subclasses decidem a criação: As subclasses podem sobrescrever (substituir) esse
+método de fábrica para criar diferentes classes concretas de objetos, sem que o código cliente precise saber qual classe específica foi criada.
+Abstração: O código cliente interage com o objeto criado através de uma interface
+ou classe abstrata comum, em vez de uma classe concreta, mantendo o código flexível.
+

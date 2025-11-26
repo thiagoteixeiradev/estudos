@@ -1,0 +1,16 @@
+D:\Arquivos\GitHub\Estudos.net\7.This\This\This\obj\Debug\This.csproj.AssemblyReference.cache
+D:\Arquivos\GitHub\Estudos.net\7.This\This\This\obj\Debug\This.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\Estudos.net\7.This\This\This\bin\Debug\This.exe.config
+D:\Arquivos\GitHub\Estudos.net\7.This\This\This\bin\Debug\This.exe
+D:\Arquivos\GitHub\Estudos.net\7.This\This\This\bin\Debug\This.pdb
+D:\Arquivos\GitHub\Estudos.net\7.This\This\This\obj\Debug\This.exe
+D:\Arquivos\GitHub\Estudos.net\7.This\This\This\obj\Debug\This.pdb
+D:\Arquivos\GitHub\Estudos.net\7.This\This\This\obj\Debug\This.exe.config
+D:\Arquivos\GitHub\Estudos.net\7.This, Construct, Classe Estática\This\This\bin\Debug\This.exe.config
+D:\Arquivos\GitHub\Estudos.net\7.This, Construct, Classe Estática\This\This\bin\Debug\This.exe
+D:\Arquivos\GitHub\Estudos.net\7.This, Construct, Classe Estática\This\This\bin\Debug\This.pdb
+D:\Arquivos\GitHub\Estudos.net\7.This, Construct, Classe Estática\This\This\obj\Debug\This.csproj.AssemblyReference.cache
+D:\Arquivos\GitHub\Estudos.net\7.This, Construct, Classe Estática\This\This\obj\Debug\This.exe.config
+D:\Arquivos\GitHub\Estudos.net\7.This, Construct, Classe Estática\This\This\obj\Debug\This.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\Estudos.net\7.This, Construct, Classe Estática\This\This\obj\Debug\This.exe
+D:\Arquivos\GitHub\Estudos.net\7.This, Construct, Classe Estática\This\This\obj\Debug\This.pdb

@@ -1,0 +1,7 @@
+﻿Bridge tem como função desacoplar uma abstração da sua implementação, de modo que as duas possam variar
+independentemente.
+
+Como funciona?
+geramos um intermediário entre a implementação e a abstração, de modo que possam atuar ou ser modificadas 
+sem afetar sua ligação entre esses dois elementos.
+Essa ligação pode ser de composição ou de agreção.

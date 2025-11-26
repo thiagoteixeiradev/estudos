@@ -1,0 +1,8 @@
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\9.Colecoes\bin\Debug\Colecoes.exe.config
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\9.Colecoes\bin\Debug\Colecoes.exe
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\9.Colecoes\bin\Debug\Colecoes.pdb
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\9.Colecoes\obj\Debug\9.Colecoes.csproj.AssemblyReference.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\9.Colecoes\obj\Debug\Colecoes.exe.config
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\9.Colecoes\obj\Debug\9.Colecoes.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\9.Colecoes\obj\Debug\Colecoes.exe
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\9.Colecoes\obj\Debug\Colecoes.pdb

@@ -1,0 +1,15 @@
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\38.SocketServer\bin\Debug\net8.0\38.SocketServer.exe
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\38.SocketServer\bin\Debug\net8.0\38.SocketServer.deps.json
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\38.SocketServer\bin\Debug\net8.0\38.SocketServer.runtimeconfig.json
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\38.SocketServer\bin\Debug\net8.0\38.SocketServer.dll
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\38.SocketServer\bin\Debug\net8.0\38.SocketServer.pdb
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\38.SocketServer\obj\Debug\net8.0\38.SocketServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\38.SocketServer\obj\Debug\net8.0\38.SocketServer.AssemblyInfoInputs.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\38.SocketServer\obj\Debug\net8.0\38.SocketServer.AssemblyInfo.cs
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\38.SocketServer\obj\Debug\net8.0\38.SocketServer.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\38.SocketServer\obj\Debug\net8.0\38.SocketServer.sourcelink.json
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\38.SocketServer\obj\Debug\net8.0\38.SocketServer.dll
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\38.SocketServer\obj\Debug\net8.0\refint\38.SocketServer.dll
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\38.SocketServer\obj\Debug\net8.0\38.SocketServer.pdb
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\38.SocketServer\obj\Debug\net8.0\38.SocketServer.genruntimeconfig.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\38.SocketServer\obj\Debug\net8.0\ref\38.SocketServer.dll

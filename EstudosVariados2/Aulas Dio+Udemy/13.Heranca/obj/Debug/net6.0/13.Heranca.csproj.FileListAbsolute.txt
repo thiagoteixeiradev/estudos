@@ -1,0 +1,5 @@
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\13.Heranca\obj\Debug\net6.0\13.Heranca.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\13.Heranca\obj\Debug\net6.0\13.Heranca.AssemblyInfoInputs.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\13.Heranca\obj\Debug\net6.0\13.Heranca.AssemblyInfo.cs
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\13.Heranca\obj\Debug\net6.0\13.Heranca.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\13.Heranca\obj\Debug\net6.0\13.Heranca.sourcelink.json

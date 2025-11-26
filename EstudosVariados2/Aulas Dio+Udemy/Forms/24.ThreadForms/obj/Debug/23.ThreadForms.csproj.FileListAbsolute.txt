@@ -1,0 +1,4 @@
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\Forms\24.ThreadForms\obj\Debug\23.ThreadForms.csproj.AssemblyReference.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\Forms\24.ThreadForms\obj\Debug\ThreadForms.exe.config
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\Forms\24.ThreadForms\obj\Debug\ThreadForms.exe
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\Forms\24.ThreadForms\obj\Debug\ThreadForms.pdb

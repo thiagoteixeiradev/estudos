@@ -1,0 +1,17 @@
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\43.Client de chat\bin\Debug\net8.0-windows\43.Client de chat.exe
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\43.Client de chat\bin\Debug\net8.0-windows\43.Client de chat.deps.json
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\43.Client de chat\bin\Debug\net8.0-windows\43.Client de chat.runtimeconfig.json
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\43.Client de chat\bin\Debug\net8.0-windows\43.Client de chat.dll
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\43.Client de chat\bin\Debug\net8.0-windows\43.Client de chat.pdb
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\43.Client de chat\obj\Debug\net8.0-windows\_43.Client_de_chat.Client.resources
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\43.Client de chat\obj\Debug\net8.0-windows\43.Client de chat.csproj.GenerateResource.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\43.Client de chat\obj\Debug\net8.0-windows\43.Client de chat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\43.Client de chat\obj\Debug\net8.0-windows\43.Client de chat.AssemblyInfoInputs.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\43.Client de chat\obj\Debug\net8.0-windows\43.Client de chat.AssemblyInfo.cs
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\43.Client de chat\obj\Debug\net8.0-windows\43.Client de chat.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\43.Client de chat\obj\Debug\net8.0-windows\43.Client de chat.sourcelink.json
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\43.Client de chat\obj\Debug\net8.0-windows\43.Client de chat.dll
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\43.Client de chat\obj\Debug\net8.0-windows\refint\43.Client de chat.dll
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\43.Client de chat\obj\Debug\net8.0-windows\43.Client de chat.pdb
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\43.Client de chat\obj\Debug\net8.0-windows\43.Client de chat.genruntimeconfig.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\43.Client de chat\obj\Debug\net8.0-windows\ref\43.Client de chat.dll

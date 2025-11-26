@@ -1,0 +1,8 @@
+D:\Arquivos\GitHub\Estudos.net\Atividades Estudos\4.Estacionamento\Estacionamento\Estacionamento\bin\Debug\Estacionamento.exe.config
+D:\Arquivos\GitHub\Estudos.net\Atividades Estudos\4.Estacionamento\Estacionamento\Estacionamento\bin\Debug\Estacionamento.exe
+D:\Arquivos\GitHub\Estudos.net\Atividades Estudos\4.Estacionamento\Estacionamento\Estacionamento\bin\Debug\Estacionamento.pdb
+D:\Arquivos\GitHub\Estudos.net\Atividades Estudos\4.Estacionamento\Estacionamento\Estacionamento\obj\Debug\Estacionamento.csproj.AssemblyReference.cache
+D:\Arquivos\GitHub\Estudos.net\Atividades Estudos\4.Estacionamento\Estacionamento\Estacionamento\obj\Debug\Estacionamento.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\Estudos.net\Atividades Estudos\4.Estacionamento\Estacionamento\Estacionamento\obj\Debug\Estacionamento.exe
+D:\Arquivos\GitHub\Estudos.net\Atividades Estudos\4.Estacionamento\Estacionamento\Estacionamento\obj\Debug\Estacionamento.pdb
+D:\Arquivos\GitHub\Estudos.net\Atividades Estudos\4.Estacionamento\Estacionamento\Estacionamento\obj\Debug\Estacionamento.exe.config

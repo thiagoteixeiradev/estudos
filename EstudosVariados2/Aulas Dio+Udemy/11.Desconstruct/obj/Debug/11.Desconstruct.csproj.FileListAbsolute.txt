@@ -1,0 +1,8 @@
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\11.Desconstruct\bin\Debug\Desconstruindo.exe.config
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\11.Desconstruct\bin\Debug\Desconstruindo.exe
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\11.Desconstruct\bin\Debug\Desconstruindo.pdb
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\11.Desconstruct\obj\Debug\11.Desconstruct.csproj.AssemblyReference.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\11.Desconstruct\obj\Debug\Desconstruindo.exe.config
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\11.Desconstruct\obj\Debug\11.Desconstruct.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\11.Desconstruct\obj\Debug\Desconstruindo.exe
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\11.Desconstruct\obj\Debug\Desconstruindo.pdb

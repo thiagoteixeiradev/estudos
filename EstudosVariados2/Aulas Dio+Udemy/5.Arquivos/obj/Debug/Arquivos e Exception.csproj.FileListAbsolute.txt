@@ -1,0 +1,8 @@
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\5.Arquivos\bin\Debug\ExplorandoArquivos.exe.config
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\5.Arquivos\bin\Debug\ExplorandoArquivos.exe
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\5.Arquivos\bin\Debug\ExplorandoArquivos.pdb
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\5.Arquivos\obj\Debug\Arquivos e Exception.csproj.AssemblyReference.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\5.Arquivos\obj\Debug\ExplorandoArquivos.exe.config
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\5.Arquivos\obj\Debug\Arquivos e Exception.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\5.Arquivos\obj\Debug\ExplorandoArquivos.exe
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\5.Arquivos\obj\Debug\ExplorandoArquivos.pdb

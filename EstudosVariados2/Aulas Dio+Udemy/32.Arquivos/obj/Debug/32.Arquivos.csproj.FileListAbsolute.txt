@@ -1,0 +1,11 @@
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\32.Arquivos\bin\Debug\32.Arquivos.exe.config
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\32.Arquivos\bin\Debug\32.Arquivos.exe
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\32.Arquivos\bin\Debug\32.Arquivos.pdb
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\32.Arquivos\obj\Debug\32.Arquivos.csproj.AssemblyReference.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\32.Arquivos\obj\Debug\_32.Arquivos.Properties.Resources.resources
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\32.Arquivos\obj\Debug\32.Arquivos.csproj.GenerateResource.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\32.Arquivos\obj\Debug\32.Arquivos.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\32.Arquivos\obj\Debug\32.Arquivos.exe
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\32.Arquivos\obj\Debug\32.Arquivos.pdb
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\32.Arquivos\obj\Debug\32.Arquivos.exe.config
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\32.Arquivos\obj\Debug\Arquivos.Form1.resources

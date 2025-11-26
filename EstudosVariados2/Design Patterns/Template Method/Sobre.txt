@@ -1,0 +1,6 @@
+﻿Template method é um padrão de design comportamental que define o esqueleto de um algoritmo em uma operação,
+postergando alguns passos para subclasses implementarem. Ele permite que uma subclasse redefina
+certos passos de um algoritmo, mas sem mudar a sua estrutura geral.
+
+A sua idéia é centralizar o comportamento comum em uma classe base,e criar especificações de comportamento
+nas subclasses.

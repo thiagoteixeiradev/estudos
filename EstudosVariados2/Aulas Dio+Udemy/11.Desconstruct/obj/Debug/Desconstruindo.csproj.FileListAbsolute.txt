@@ -1,0 +1,8 @@
+D:\Arquivos\GitHub\Estudos.net\13.Desconstruct\Desconstruindo\Desconstruindo\bin\Debug\Desconstruindo.exe.config
+D:\Arquivos\GitHub\Estudos.net\13.Desconstruct\Desconstruindo\Desconstruindo\bin\Debug\Desconstruindo.exe
+D:\Arquivos\GitHub\Estudos.net\13.Desconstruct\Desconstruindo\Desconstruindo\bin\Debug\Desconstruindo.pdb
+D:\Arquivos\GitHub\Estudos.net\13.Desconstruct\Desconstruindo\Desconstruindo\obj\Debug\Desconstruindo.csproj.AssemblyReference.cache
+D:\Arquivos\GitHub\Estudos.net\13.Desconstruct\Desconstruindo\Desconstruindo\obj\Debug\Desconstruindo.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\Estudos.net\13.Desconstruct\Desconstruindo\Desconstruindo\obj\Debug\Desconstruindo.exe
+D:\Arquivos\GitHub\Estudos.net\13.Desconstruct\Desconstruindo\Desconstruindo\obj\Debug\Desconstruindo.pdb
+D:\Arquivos\GitHub\Estudos.net\13.Desconstruct\Desconstruindo\Desconstruindo\obj\Debug\Desconstruindo.exe.config

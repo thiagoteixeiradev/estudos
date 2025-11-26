@@ -1,0 +1,45 @@
+
+List<T>						Lista dinâmica fortemente tipada.
+Dictionary<TKey,TValue>		Pares chave-valor, busca rápida.
+Queue<T>					Fila FIFO fortemente tipada.
+Stack<T>					Pilha LIFO fortemente tipada.
+LinkedList<T>				Lista duplamente encadeada.
+SortedList<TKey,TValue>		Lista ordenada por chave.
+HashSet<T>					Conjunto de elementos únicos, busca eficiente.
+SortedSet<T>				Conjunto ordenado de elementos únicos.
+ArrayList					Lista dinâmica de object.
+Hashtable					Tabela de pares chave-valor (object).
+Queue						Fila FIFO (First-In-First-Out).
+Stack						Pilha LIFO (Last-In-First-Out).
+NameValueCollection			Coleção de pares chave-valor com múltiplos valores por chave.
+OrderedDictionary			Dicionário ordenado.
+-----------------------------------------------
+MultiThread para acesso seguro
+Tipo	Descrição
+ConcurrentBag<T>					Coleção de itens não ordenados.
+ConcurrentQueue<T>					Fila FIFO thread-safe.
+ConcurrentStack<T>					Pilha LIFO thread-safe.
+ConcurrentDictionary<TKey,TValue>	Dicionário thread-safe.
+BlockingCollection<T>				Adiciona bloqueio e limitação de capacidade.
+------------------------------------------------
+Imutáveis, estáticas
+ImmutableList<T>					Lista imutável.
+ImmutableDictionary<TKey,TValue>	Dicionário imutável.
+ImmutableHashSet<T>					Conjunto imutável.
+
+Arrays
+
+int[] numeros
+
+Lista de array
+
+ArrayList lista = new ArrayList() {1, "Texto", 3.5}
+
+Lista
+
+List<string> nomeLista
+
+Dicionário
+
+Dictionary<int, string>
+

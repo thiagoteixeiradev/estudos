@@ -1,0 +1,8 @@
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\1.Entrada Saida de dados e conversoes\bin\Debug\Entrada e Saida de dados.exe.config
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\1.Entrada Saida de dados e conversoes\bin\Debug\Entrada e Saida de dados.exe
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\1.Entrada Saida de dados e conversoes\bin\Debug\Entrada e Saida de dados.pdb
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\1.Entrada Saida de dados e conversoes\obj\Debug\1.Entrada Saida de dados e conversoes.csproj.AssemblyReference.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\1.Entrada Saida de dados e conversoes\obj\Debug\Entrada e Saida de dados.exe.config
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\1.Entrada Saida de dados e conversoes\obj\Debug\1.Entrada Saida de dados e conversoes.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\1.Entrada Saida de dados e conversoes\obj\Debug\Entrada e Saida de dados.exe
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\1.Entrada Saida de dados e conversoes\obj\Debug\Entrada e Saida de dados.pdb
